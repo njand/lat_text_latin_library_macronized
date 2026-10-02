@@ -1,0 +1,2 @@
+# lat_text_latin_library_macronized
+Automatically macronized Latin texts
