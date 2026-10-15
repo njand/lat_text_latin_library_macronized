@@ -1,0 +1,420 @@
+St. Thomās Aquīnās: Summa Theologica, Prīma Pars Quaestiō XXIX
+
+
+
+
+SUMMMA THEOLOGICAE
+
+ANGELICĪ DOCTŌRIS SĀNCTĪ THOMAE AQUĪNĀTIS
+
+PRĪMA PARS
+
+QUAESTIŌ XXIX
+Dē Persōnīs dīvīnīs
+in quātuor articulōs dīvīsa
+
+
+Praemissīs autem hīs quae dē prōcessiōnibus et relātiōnibus praecognoscenda
+vidēbantur, necessārium est aggredī dē Persōnīs. Et prīmō, secundum cōnsīderātiōnem
+absolūtam; et deinde secundum comparātīvam cōnsīderātiōnem. Oportet autem
+absolūtē dē Persōnīs, prīmō quidem in commūnī cōnsīderāre; deinde dē singulīs
+Persōnīs. Ad commūnem autem cōnsīderātiōnem Persōnārum quātuor pertinēre
+videntur: prīmō quidem, significātiō hujus nōminis persōna; secundō vērō,
+numerus Persōnārum; tertiō, ea quae cōnsequuntur numerum Persōnārum, vel
+eī oppōnuntur, ut dīversitās et similitūdō, et hūiusmodī; quārtō vērō,
+ea quae pertinent ad nōtitiam Persōnārum.
+Circā prīmum quaeruntur quātuor.
+
+
+Prīmō: dē dēfīnītiōne persōnae.
+
+
+Secundō: dē comparātiōne persōnae ad essentiam, subsistentiam et hypostasim.
+
+
+Tertiō: utrum nōmen persōnae competat in dīvīnīs.
+
+
+Quārtō: quid ibi significet.
+
+
+ARTICULUS 1
+Dē dēfīnītiōne persōnae
+
+Ad prīmum sīc prōcēditur. Vidētur quod incompetēns sit dēfīnītiō persōnae
+
+quam Boētius assignat in librō Dē duābus nātūrīs, quae tālis est: Persōna
+est ratiōnālis nātūrae indīvidua substantia.
+1. Nūllum enim singulāre dēfīnītur. Sed persōna significat quoddam
+singulāre. Ergō persōna inconvenienter dēfīnītur.
+2. Praetereā, substantia, prout pōnitur in dēfīnītiōne persōnae,
+aut sūmitur prō substantiā prīmā, aut prō substantiā secundā. Sī prō substantiā
+prīmā, superfluē additur indīvidua: quia substantia prīma est substantia
+indīvidua. Sī vērō stat prō substantiā secundā, falsō additur, et est oppositiō
+in adjectō: nam secundae substantiae dīcuntur genera vel speciēs. Ergō
+
+dēfīnītiō est male assignāta.
+3. Praetereā, nōmen intentiōnis nōn dēbet pōnī in dēfīnītiōne
+reī. Nōn enim esset bona assignātiō, sī quis dīceret, homō est speciēs
+animālis: homō enim est nōmen reī, et speciēs est nōmen intentiōnis. Cum
+igitur persōna sit nōmen reī (significat enim substantiam quandam ratiōnālis
+nātūrae), inconvenienter indīviduum, quod est nōmen intentiōnis, in ejus
+dēfīnītiōne pōnitur.
+4. Praetereā, nātūra est prīncipium mōtūs et quiētis in eō in
+quō est per sē et nōn per accidēns, ut dīcitur in IĪ Physic. Sed persōna
+est in rēbus immōbilibus, sīcut in Deō et in angelīs. Nōn ergō in dēfīnītiōne
+persōnae dēbuit pōnī nātūra, sed magis essentia.
+
+5. Praetereā, anima sēparāta est ratiōnālis nātūrae indīvidua
+substantia. Nōn autem est persōna. Inconvenienter ergō persōna sīc dēfīnītur.
+Respondeō dīcendum quod, licet ūniversāle et particulāre inveniantur
+in omnibus generibus, tamen speciālī quōdam modō indīviduum invenītur in
+genere substantiae. Substantia enim indīviduātur per sēipsam, sed accīdentia
+indīviduantur per subjectum, quod est substantia: dīcitur enim haec albēdō,
+inquantum est in hōc subjectō. Unde etiam convenienter indīvidua substantiae
+habent aliquod speciāle nōmen prae aliīs: dīcuntur enim hypostasēs, vel
+prīmae substantiae.
+Sed adhūc quōdam speciāliorī et perfectiorī modō invenītur particulāre
+et indīviduum in substantiīs ratiōnālibus, quae habent dominium suī āctūs,
+et nōn sōlum aguntur, sīcut alia, sed per sē agunt: āctiōnēs autem in singulāribus
+sunt. Et ideō etiam inter cēterās substantiās quoddam speciāle nōmen habent
+
+singulāria ratiōnālis nātūrae. Et hoc nōmen est persōna. Et ideō in praedictā
+dēfīnītiōne persōnae pōnitur substantia indīvidua, inquantum significat
+singulāre in genere substantiae: additur autem ratiōnālis nātūrae, inquantum
+significat singulāre in ratiōnālibus substantiīs.
+Ad prīmum ergō dīcendum quod, licet hoc singulāre vel illud dēfīnīrī
+nōn possit, tamen id quod pertinet ad commūnem ratiōnem singulāritātis,
+dēfīnīrī potest: et sīc Philosophus dēfīnit substantiam prīmam. Et hōc
+modō dēfīnit Boetius persōnam.
+Ad secundum dīcendum quod, secundum quōsdam, substantia, in dēfīnītiōne
+persōnae pōnitur prō substantiā prīmā, quae est hypostasis. Neque tamen
+superfluē additur indīvidua. Quia nōmine hypostasis vel substantiae prīmae,
+exclūditur ratiō ūniversālis et partis (nōn enim dīcimus quod homō commūnis
+
+sit hypostasis, neque etiam manus, cum sit pars): sed per hōc quod additur
+indīviduum, exclūditur ā persōnā ratiō assūmptibilis; hūmāna enim nātūra
+in Chrīstō nōn est persōna, quia est assūmpta ā digniorī, scīlicet ā Verbō
+Deī. Sed melius dīcendum est quod substantia accipitur commūniter, prout
+dīviditur per prīmam et secundam: et per hōc quod additur indīvidua, trahitur
+ad standum prō substantiā prīmā.
+Ad tertium dīcendum quod, quia substantiālēs differentiae nōn
+sunt nōbīs nōtae, vel etiam nōminātae nōn sunt, oportet interdum ūtī differentiīs
+accīdentālibus locō substantiālium, puta sī quis dīceret: ignis est corpus
+simplex, calidum et sicum: accīdentia enim propria sunt effectūs fōrmārum
+
+substantiālium, et manifestant eās. Et similiter nōmina intentiōnum possunt
+accipī ad dēfīniendum rēs, secundum quod accipiuntur prō aliquibus nōminibus
+rērum quae nōn sunt posita. Et sīc hoc nōmen indīviduum pōnitur in dēfīnītiōne
+persōnae, ad dēsignandum modum subsistendī quī competit substantiīs particulāribus.
+Ad quārtum dīcendum quod, secundum Philosophum, in U Metaphys.,
+nōmen nātūrae prīmō impositum est ad significandam generātiōnem vīventium,
+quae dīcitur nātīvitās. Et quia hūjusmodī generātiō est ā prīncipiō intrinsecō,
+extēnsum est hoc nōmen ad significandum prīncipium intrīnsecum cujuscumque
+mōtūs. Et sīc dēfīnītur nātūra in IĪ Physic. Et quia hūjusmodī prīncipium
+est fōrmāle vel māteriāle, commūniter tam māteria quam fōrma dīcitur nātūra.
+Et quia per fōrmam complētur essentia ūnīūscūjusque reī, commūniter essentia
+ūnīūscūjusque reī, quam significat ejus dēfīnītiō, vocātur nātūra. Et sīc
+
+accipitur hīc nātūra. Unde Boētjus in eōdem librō dīcit quod nātūra est
+ūnumquodque īnfōrmāns specifica differentia: specifica enim differentia
+est quae complet dēfīnītiōnem, et sūmitur ā propriā fōrmā reī. Et ideō
+convenientius fuit quod in dēfīnītiōne persōnae, quae est singulāre alicujus
+generis dēterminātī, ūterētur nōmine nātūrae, quam essentiae, quae sūmitur
+ab esse, quod est commūnissimum.
+Ad quīntum dīcendum quod anima est pars hūmānae speciēī: et ideō,
+licet sit sēparāta, quia tamen retinet nātūram unibīlitātis, nōn potest
+dīcī substantia indīvidua quae est hypostasis vel substantia prīma; sīcut
+
+nec manus, nec quaecumque alia partium hominis. Et sīc nōn competit eī
+neque dēfīnītiō persōnae, neque nōmen.
+
+
+ARTICULUS 2
+Utrum persōna sit idem quod hypostasis, subsistentia et essentia
+
+Ad secundum sīc prōcēditur. Vidētur quod persōna sit idem quod hypostasis,
+subsistentia, et essentia.
+1. Dīcit enim Boetius, in librō Dē duāb. nātur., quod Graecī nātūrae
+ratiōnālīs indīviduam substantiam hypostasēōs nōmine vocāvērunt. Sed hoc
+etiam, apud nōs, significat nōmen persōnae. Ergō persōna omnīnō idem est
+quod hypostasis.
+2. Praetereā, sīcut in dīvīnīs dīcimus trēs persōnās, ita in dīvīnīs
+dīcimus trēs subsistentīās: quod nōn esset, nisi persōna et subsistentia
+
+īdem significārent. Ergō īdem significant persōna et subsistentia.
+3. Praetereā, Boetius dīcit, in Commentō Praedicāmentōrum, quod
+ūsia, quod est idem quod essentia, significat compositum ex māteriā et
+fōrmā. Id autem quod est compositum ex māteriā et fōrmā, est indīviduum
+substantiae, quod et hypostasis et persōna dīcitur. Ergō omnia praedicta
+nōmina idem significāre videntur.
+Sed contrā est quod Boetius dīcit, in lībrō Dē duāb. nātur., quod
+genera et speciēs subsistunt tantum; indīvidua vērō nōn modō subsistunt,
+vērum etiam substant. Sed ā subsistendō dīcuntur subsistentiae, sīcut ā
+
+substandō substantiae vel hypostasēs. Cum igitur esse hypostasēs vel persōnās
+nōn conveniat generibus vel speciēbus, hypostasēs vel persōnae nōn sunt
+īdem quod subsistentiae.
+Praetereā, Boētius dīcit, in Commentō Praedicāmentōrum, quod hypostasis
+dīcitur māteria, ūsiōsis autem, idest subsistentia, dīcitur fōrma. Sed
+neque fōrma neque māteria potest dīcī persōna. Ergō persōna differt ā praedictīs.
+Respondeō dīcendum quod, secundum Philosophum, in U Metaphys.,
+substantia dīcitur dupliciter. Ūnō modō dīcitur substantia quidditās reī,
+quam significat dēfīnītiō, secundum quod dīcimus quod dēfīnītiō significat
+substantiam reī: quam quidem substantiam Graecī ūsiam vocant, quod nōs
+essentiam dīcere possumus. Aliō modō dīctur substantia subjectum vel suppositum
+
+quod subsistit in genere substantiae. Et hoc quidem, commūniter accipiendō,
+nōminārī potest et nōmine significante intentiōnem: et sīc dīcitur suppositum.
+Nōminātur etiam tribus nōminibus significantibus rem, quae quidem sunt
+rēs nātūrae, subsistentia et hypostasis, secundum triplicem cōnsīderātiōnem
+substantiae sīc dictae. Secundum enim quod per sē existit et nōn in aliō,
+vocātur subsistentia: illa enim subsistere dīcimus, quae nōn in aliō, sed
+in sē existunt. Secundum vērō quod suppōnitur alicui nātūrae commūnī, sīc
+dīcitur rēs nātūrae; sīcut hic homō est rēs nātūrae hūmānae. Secundum vērō
+quod suppōnitur accidentibus, dīcitur hypostasis vel substantia. Quod autem
+haec tria nōmina significant commūniter in tōtō genere substantiārum, hoc
+nōmen persōna significat in genere ratiōnālium substantiārum.
+Ad prīmum ergō dīcendum quod hypostasis, apud Graecōs, ex propriā
+significātiōne nōminis habet quod significet quodcumque indīviduum substantiae:
+sed ex ūsū loquendī habet quod sūmātur prō indīviduō ratiōnālis nātūrae,
+ratiōne suae excellentiae.
+Ad secundum dīcendum quod, sīcut nōs dīcimus in dīvīnīs plūrāliter
+trēs persōnās et trēs subsistentiās, itā Graecī dīcunt trēs hypostasēs.
+Sed quia nōmen substantiae, quod secundum proprietātem significātiōnis
+respondet hypostasī, aequivocātur apud nōs, cum quandōque significet essentiam,
+quandōque hypostasim; nē possit esse errōris occāsiō, māluērunt prō hypostasī
+trānsferre subsistentiam, quam substantiam.
+Ad tertium dīcendum quod essentia propriē est id quod significātur
+per dēfīnītiōnem. Dēfīnītiō autem complectitur prīncipia speciēī, nōn autem
+
+prīncipia individuālia. Unde in rēbus compositīs ex māteriā et fōrmā, essentia
+significat nōn sōlum fōrmam, nec sōlum māteriam, sed compositum ex māteriā
+et fōrmā commūnī, prout sunt prīncipia speciēī. Sed compositum ex hāc māteriā
+et ex hāc fōrmā, habet ratiōnem hypostasīs et persōnae: anima enim et cārō
+et os sunt dē ratiōne hominis, sed haec anima et haec cārō et hoc os sunt
+dē ratiōne hujus hominis. Et ideō hypostasis et persōna addunt suprā ratiōnem
+essentiae prīncipia individuālia; neque sunt īdem cum essentiā in compositīs
+ex māteriā et fōrmā, ut suprā dictum est, cum dē simplicitāte dīvīnā agerētur.
+
+Ad quārtum dīcendum quod Boētius dīcit genera et speciēs subsistere,
+inquantum indīviduīs aliquibus competit subsistere, ex eō quod sunt sub
+generibus et speciēbus in praedicāmentō Substantiae comprehēnsīs: nōn quod
+ipsae speciēs vel genera subsistant, nisi secundum opīniōnem Platōnis,
+quī posuit speciēs rērum sēparātim subsistere ā singulāribus. Substāre
+vērō competit eīsdem indīviduīs in ōrdine ad accidentia, quae sunt praeter
+ratiōnem generum et speciērum.
+Ad quīntum dīcendum quod indīviduum compositum ex māteriā et fōrmā,
+habet quod substet accidentī, ex proprietāte māteriae. Unde et Boētius
+dīcit, in lībrō Dē Trin.: fōrma simplex subjectum esse nōn potest. Sed
+quod per sē subsistat, habet ex proprietāte suae fōrmae, quae nōn advenit
+reī subsistentī, sed dat esse āctuāle māteriae, ut sīc indīviduum subsistere
+possit. Propter hoc ergō hypostasim attribuit māteriae, et usiosim, sīve
+subsistentiam, fōrmae, quia māteria est prīncipium substandī, et fōrma
+est prīncipium subsistendī.
+
+
+ARTICULUS 3
+
+Utrum nōmen 'persōnae' sit pōnendum in dīvīnīs
+
+Ad tertium sīc prōcēditur. Vidētur quod nōmen persōnae nōn sit pōnendum
+in dīvīnīs.
+1. Dīcit enim Dionȳsius, in prīncipiō Dē diū. [nom].: Ūniversāliter
+nōn est audendum aliquid dīcere nec cōgitāre dē supersubstantiālī occultā
+dīvīnitāte, praeter ea quae dīvīnitus nōbīs ex sānctīs ēloquiīs sunt expressa.
+Sed nōmen persōnae nōn exprimitur nōbīs in sacrā Scrīptūrā novī vel veteris
+Testāmentī. Ergō nōn est nōmine persōnae ūtendum in dīvīnīs.
+2. Praetereā, Boētius dīcit, in lībrō Dē [duab]. nātur.: Nōmen persōnae
+vidētur trāductum ex hīs persōnīs quae in cōmoediīs tragoediīsque hominēs
+repraesentābant; persōna enim dicta est ā personandō, quia concavitāte
+
+ipsa major necesse est ut volvātur sonus. Graecī vērō hās persōnās prōsōpā
+vocant, ab eō quod pōnantur in faciē, atque ante oculōs obtegant vultum.
+Sed hoc nōn potest competere in dīvīnīs, nisi forte secundum metaphoram.
+Ergō nōmen persōnae nōn dīcitur dē Deō nisi metaphoricē.
+3. Praetereā, omnis persōna est hypostasis. Sed nōmen hypostasis
+nōn vidētur Deō competere: cum, secundum Boētium, significet id quod subjicitur
+accidentibus, quae in Deō nōn sunt. Hierōnymus etiam dīcit quod in hōc
+nōmine hypostasis, venēnum latet sub melle. Ergō hoc nōmen persōna nōn
+est dīcendum dē Deō.
+4. Praetereā, ā quōcumque removētur dēfīnītiō et dēfīnītum. Sed
+dēfīnītiō persōnae suprā posita nōn vidētur Deō competere. Tum quia ratiō
+importat discursīvam cognitiōnem, quae nōn competit Deō, ut suprā ostēnsum
+
+est: et sīc Deus nōn potest dīcī ratiōnālis nātūrae. Tum etiam quia Deus
+dīcī nōn potest indīvidua substantia: cum prīncipium indīviduātiōnis sit
+māteria, Deus autem immāteriālis est; neque etiam accidentibus substat,
+ut substantia dīcī possit. Nōmen ergō persōnae Deō attribuī nōn dēbet.
+Sed contrā est quod dīcitur in symbolō Athanāsiī: Alia est persōna
+Patris, alia Fīliī, alia Spīritūs Sānctī.
+Respondeō dīcendum quod persōna significat id quod est perfectissimum
+in tōtā nātūrā, scīlicet subsistēns in ratiōnālī nātūrā. Unde, cum omne
+illud quod est perfectiōnis, Deō sit attribuendum, eō quod ejus essentia
+
+continet in sē omnem perfectiōnem: conveniēns est ut hoc nōmen persōna
+dē Deō dīcātur. Nōn tamen eōdem modō quō dīcitur dē creātūrīs, sed excellentiorī
+modō; sīcut et alia nōmina quae, creātūrīs ā nōbīs imposita. Deō attribuuntur;
+sīcut suprā ostēnsum est, cum dē dīvīnīs nōminibus agerētur.
+Ad prīmum ergō dīcendum quod, licet nōmen persōnae in Scrīptūrā
+veteris vel novī Testāmentī nōn inveniātur dictum dē Deō, tamen id quod
+nōmen significat, multipliciter in sacrā Scrīptūrā invenītur assertum dē
+Deō; scīlicet quod est maximē per sē ēns, et perfectissimē intelligēns.
+Sī autem oportēret dē Deō dīcī sōlum illa, secundum vōcem, quae sacra Scrīptūra
+dē Deō trādit, sequerētur quod nunquam in aliā linguā posset aliquis loquī
+
+dē Deō, nisi in illā in quā prīmō trādita est Scrīptūra veteris vel novī
+Testāmentī. Ad inveniendum autem nova nōmina, antīquam fidem dē Deō significantia,
+coēgit necessitās disputandī cum haereticīs. Nec haec novitās vītanda est,
+cum nōn sit profāna, utpote ā Scrīptūrārum sēnsū nōn discordāns: docet
+autem Apostolus prōfānās vōcum novitātēs vītāre, Ī ad Tim. ult., 20.
+Ad secundum dīcendum quod, quamvīs hoc nōmen persōna nōn conveniat
+Deō quantum ad id ā quō impositum est nōmen, tamen quantum ad id ad quod
+significandum impōnitur, maximē Deō convenit. Quia enim in cōmoediīs et
+tragoediīs repraesentābantur aliquī hominēs fāmōsī, impositum est hoc nōmen
+persōna ad significandum aliquōs dignitātem habentēs. Unde cōnsuēvērunt
+dīcī persōnae in ecclēsiīs, quae habent aliquam dignitātem. Propter quod
+
+quīdam dēfīniunt persōnam, dīcentēs quod persōna est hypostasis proprietāte
+distīnctā ad dignitātem pertinente. Et quia magnae dignitātis est in ratiōnālī
+nātūrā subsistere, ideō omne indīviduum ratiōnālis nātūrae dīcitur persōna,
+ut dictum est. Sed dignitās dīvīnae nātūrae excēdit omnem dignitātem: et
+secundum hoc maximē competit Deō nōmen persōnae.
+Ad tertium dīcendum quod nōmen hypostasis nōn competit Deō quantum
+ad id ā quō est impositum nōmen, cum nōn substet accīdentibus: competit
+autem eī quantum ad id, quod est impositum ad significandum rem subsistentem.
+Hierōnymus autem dīcit sub hōc nōmine venēnum latēre, quia antequam significātiō
+hujus nōminis esset plēnē nōta apud Latīnōs, haereticī per hoc nōmen simplicēs
+dēcipiēbant, ut cōnfitērentur plūrēs essentiās, sīcut cōnfitentur plūrēs
+hypostasēs; propter hoc quod nōmen substantiae, cui respondet in graecō
+
+nōmen hypostasis, commūniter accipitur apud nōs prō essentiā.
+Ad quārtum dīcendum quod Deus potest dīcī ratiōnālis nātūrae,
+secundum quod ratiō nōn importat discursum, sed commūniter intellēctuālem
+nātūram. Indīviduum autem Deō competere nōn potest quantum ad hoc quod
+individuātiōnis prīncipium est māteria: sed sōlum secundum quod importat
+incommunicābilitātem. Substantia vērō convenit Deō, secundum quod significat
+existere per sē. Quīdam tamen dīcunt quod dēfīnītiō superius ā Boētiō datā,
+nōn est dēfīnītiō persōnae secundum quod persōnās in Deō dīcimus. Propter
+quod Ricardus dē Sānctō Victōre, corrigere volēns hanc dēfīnītiōnem, dīxit
+quod persōna, secundum quod dē Deō dīcitur, est dīvīnae nātūrae incommūnicābilis
+existentia.
+
+
+ARTICULUS 4
+Utrum hoc nōmen 'persōna' significet relātiōnem
+
+Ad quārtum sīc prōcēditur. Vidētur quod hoc nōmen persōna nōn significet
+relātiōnem, sed substantiam, in dīvīnīs.
+
+1. Dīcit enim Augustīnus, in [UIĪ] Dē Trīn.: Cum dīcimus persōnam
+Patrīs, nōn aliud dīcimus quam substantiam Patrīs; ad sē quippe dīcitur
+persōna, nōn ad Fīlium.
+2. Praetereā, quid quaerit dē essentiā. Sed, sīcut dīcit Augustīnus
+in eōdem locō, cum dīcitur, Trēs sunt quī testimōnium dant in caelō, Pater,
+Verbum, et Spīritus Sānctus; et quaeritur, Quid trēs? respondētur, Trēs
+Persōnae. Ergō hoc nōmen persōna significat essentiam.
+3. Praetereā, secundum Philosophum, [IU] [Metaphys]., id quod significātur
+per nōmen, est ejus dēfīnītiō. Sed dēfīnītiō persōnae est <ratiōnālis|ratiōnālīs> nātūrae
+<indīvidua|indīviduā> <substantia|substantiā>, ut dictum est. Ergō hoc nōmen persōna significat
+substantiam.
+4. Praetereā, persōna in hominibus et angelīs nōn significat relātiōnem,
+sed aliquid absolūtum. Sī igitur in Deō significāret relātiōnem, dīcerētur
+aequivocē dē Deō et hominibus et angelīs.
+Sed contrā est quod dīcit Boētius, in lībrō Dē Trīn., quod omne
+
+nōmen ad persōnās pertinēns, relātiōnem significat. Sed nūllum nōmen magis
+pertinet ad persōnās, quam hoc nōmen persōna. Ergō hoc nōmen persōna relātiōnem
+significat.
+Respondeō dīcendum quod circā significātiōnem hujus nōminis persōna
+in dīvīnīs, difficultātem ingerit quod plūrāliter dē tribus praedicātur,
+praeter nātūram essentiālium nōminum; neque etiam ad aliquid dīcitur, sīcut
+nōmina quae relātiōnem significant. Unde quibusdam vīsum est quod hoc nōmen
+persōna simpliciter, ex virtūte vocābulī, essentiam significet in dīvīnīs,
+sīcut hoc nōmen Deus, et hoc nōmen sapiēns: sed propter īnstantiam haereticōrum,
+est accommodātum, ex ōrdinātiōne Conciliī, ut possit pōnī prō relātīvīs;
+et praecipuē in plūrālī, vel cum nōmine partītīvō, ut cum dīcimus trēs
+
+persōnās, vel alia est persona Patrīs, alia Fīliī. In singulārī vērō potest
+sūmī prō absolūtō, et prō relātīvō. Sed haec nōn vidētur sufficiēns ratiō.
+Quia sī hoc nōmen persona, ex vī suae significātiōnis, nōn habet quod significet
+nisi essentiam in dīvīnīs; ex hōc quod dictum est trēs persōnās, nōn fuisset
+haereticōrum quiētāta calumniā, sed majōris calumniae data esset eīs occāsiō.
+Et ideō aliī dīxērunt quod hoc nōmen persona in dīvīnīs significat
+simul essentiam et relātiōnem. Quōrum quīdam dīxērunt quod significat essentiam
+in rēctō, et relātiōnem in oblīquō. Quia persona dīcitur quasi per sē ūna:
+ūnitās autem pertinet ad essentiam. Quod autem dīcitur per sē, implicat
+relātiōnem oblīquē: intelligitur enim Pater per sē esse, quasi relātiōne
+distīnctus ā Fīliō. Quīdam vērō dīxērunt ē conversō, quod significat relātiōnem
+in rēctō, et essentiam in oblīquō: quia in dēfīnītiōne persōnae, nātūra
+pōnitur in oblīquō. Et istī propinquius ad vēritātem accessērunt.
+Ad ēvidentiam igitur hujus quaestiōnis, cōnsīderandum est quod aliquid
+est dē significātiōne minus commūnis, quod tamen nōn est dē significātiōne
+
+magis commūnis: ratiōnāle enim inclūditur in significātiōne hominis, quod
+tamen nōn est dē significātiōne animālis. Unde aliud est quaerere dē significātiōne
+animālis, et aliud est quaerere dē significātiōne animālis quod est homō.
+Similiter aliud est quaerere dē significātiōne hujus nōminis persōna in
+commūnī, et aliud dē significātiōne persōnae dīvīnae. Persōna enim in commūnī
+significat substantiam indīviduam ratiōnālis nātūrae, ut dictum est. Indīviduum
+autem est quod est in sē indistīnctum, ab aliīs vērō distīnctum. Persōna
+igitur, in quācumque nātūrā, significat id quod est distīnctum in nātūrā
+illā: sīcut in hūmānā nātūrā significat hās carnēs et haec ossa et hanc
+animam, quae sunt prīncipia indivīduantia hominem; quae quidem, licet nōn
+sint dē significātiōne persōnae, sunt tamen dē significātiōne persōnae
+hūmānae. Distīnctiō autem in dīvīnīs nōn fit nisi per relātiōnēs orīginis,
+
+ut dictum est suprā. Relātiō autem in dīvīnīs nōn est sīcut accidēns inhaerēns
+subjectō, sed est ipsa dīvīna essentia: unde est subsistēns, sīcut essentia
+dīvīna subsistit. Sīcut ergō deitās est Deus, ita paternitās dīvīna est
+Deus Pater, quī est persōna dīvīna. Persōna igitur dīvīna significat relātiōnem
+ut subsistentem. Et hoc est significāre relātiōnem per modum substantiae
+quae est hypostasis subsistēns in nātūrā dīvīnā; licet subsistēns in nātūrā
+dīvīnā nōn sit aliud quam nātūra dīvīna.
+
+Et secundum hoc, vērum est quod hoc nōmen persōna significat relātiōnem
+in rēctō, et essentiam in oblīquō: nōn tamen relātiōnem inquāntum est relātiō,
+sed inquāntum significātur per modum hypostasis. Similiter etiam significat
+essentiam in rēctō, et relātiōnem in oblīquō: inquāntum essentia īdem est
+quod hypostasis; hypostasis autem significātur in dīvīnīs ut relātiōne
+distīnctā; et sīc relātiō, per modum relātiōnis significāta, cadit in ratiōne
+persōnae in oblīquō.
+Et secundum hoc etiam dīcī potest; quod haec significātiō hujus nōminis
+persōna nōn erat percepta ante haereticōrum calumniam: unde nōn erat in
+ūsū hoc nōmen persōna, nisi sīcut ūnum aliōrum absōlūtōrum. Sed postmodum
+
+accommodātum est hōc nōmen persōna ad standum prō relātīvō, ex congruentiā
+suae significātiōnis: ut scīlicet hōc quod stat prō relātīvō, nōn sōlum
+habeat ex ūsū, ut prīma opīniō dīcēbat, sed etiam ex significātiōne suā.
+Ad prīmum ergō dīcendum quod hoc nōmen persōna dīcitur ad sē,
+nōn ad alterum, quia significat relātiōnem, nōn per modum relātiōnis, sed
+per modum substantiae quae est hypostasis. Et secundum hōc Augustīnus dīcit
+quod significat essentiam, prout in Deō essentiā est īdem cum hypostasī:
+quia in Deō nōn differt quod est et quō est.
+Ad secundum dīcendum quod quid quandōque quaerit dē nātūrā quam
+significat dēfīnītiō; ut cum quaeritur, Quid est homō? et respondētur,
+Animal ratiōnāle mortāle. Quandōque vērō quaerit suppositum; ut cum quaeritur,
+Quid natat in marī? et respondētur, Piscis. Et sīc quaerentibus Quid trēs?
+respōnsum est, Trēs Persōnae.
+Ad tertium dīcendum quod in intellēctū substantiae indīviduae,
+[idest] distīnctae vel incommūnicābilis, intelligitur in dīvīnīs relātiō,
+ut dictum est.
+Ad quārtum dīcendum quod dīversa ratiō minus commūnium nōn facit
+
+aequivocātiōnem in magis commūnī. Licet enim sit alia propria dēfīnītiō
+equī et asinī, tamen ūnivocantur in nōmine animālis: quia commūnis dēfīnītiō
+animālis convenit utrīque. Unde nōn sequitur quod, licet in significātiōne
+persōnae dīvīnae contineātur relātiō, nōn autem in significātiōne angelicae
+persōnae vel hūmānae, quod nōmen persōnae aequivocē dicātur. Licet nec
+etiam dicātur ūnivocē: cum nihil ūnivocē dē Deō dīcī possit et dē creātūrīs,
+ut suprā ostēnsum est.
+
+
+
+
+
+St. Thōmās Aquīnās
+Chrīstiān Latīn
+The Latīn Library
+The Classics Pāge
+
