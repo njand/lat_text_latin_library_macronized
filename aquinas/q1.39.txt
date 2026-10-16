@@ -1,0 +1,669 @@
+St. Thomās Aquīnās: Summa Theologica, Prīma Pars Quaestiō XXXIX
+
+
+
+
+SUMMMA THEOLOGICAE
+
+ANGELICĪ DOCTŌRIS SĀNCTĪ THŌMAE AQUĪNĀTIS
+
+PRĪMA PARS
+
+QUAESTIŌ XXXIX
+
+Dē Persōnīs ad essentiam relātīs
+
+in octo articulōs dīvīsa
+
+
+
+
+
+
+Post ea quae dē Persōnīs dīvīnīs absolūtē tractāta sunt, cōnsīderandum restat dē Persōnīs in
+comparātiōne ad essentiam, et ad proprietātēs, et ad āctūs notiōnālēs, et dē comparātiōne
+ipsārum ad invicem.
+Quantum igitur ad prīmum hōrum, octo quaeruntur.
+
+Prīmō: utrum essentia in dīvīnīs sit īdem quod persōna.
+Secundō: utrum dīcendum sit quod trēs Persōnae sunt ūnīus essentiae.
+Tertiō: utrum nōmina essentiālia praedicanda sint dē Persōnīs in plūrālī vel in
+singulārī.
+Quārtō: utrum adjectīva notiōnālia, aut verba vel participia, praedicārī possint dē
+
+nōminibus essentiālibus concrētiuē acceptīs.
+Quīntō: utrum praedicārī possint dē nōminibus essentiālibus in abstractō acceptīs.
+Sextō: utrum nōmina Persōnārum praedicārī possint dē nōminibus essentiālibus
+concrētīs.
+Septimō: utrum essentiālia attribūta sint approprianda Persōnīs.
+Octāvō: quod attribūtum cuique Persōnae dēbeat appropriārī.
+
+ARTICULUS 1
+
+Utrum in dīvīnīs essentia sit īdem quod persōna
+
+Ad prīmum sīc prōcēditur. Vidētur quod in dīvīnīs essentia nōn sit īdem quod persōna.
+1. In quibuscumque enim essentia est īdem quod persōna seu suppositum, oportet quod sit tantum
+ūnum suppositum ūnīus nātūrae, ut patet in omnibus substantiīs sēparātīs: eōrum enim quae
+sunt īdem rē, ūnum multiplicārī nōn potest, quīn multiplicētur et reliquum. Sed in dīvīnīs est
+
+ūna essentia et trēs Persōnae, ut ex suprā dictīs patet. Ergō essentia nōn est idem quod persōna.
+2. Praetereā, affirmātiō et negātiō simul et semel nōn verificantur dē eōdem. Sed affirmātiō et
+negātiō verificantur dē essentiā et persōnā: nam persōna est distīncta, essentia vērō nōn est
+distīncta. Ergō persōna et essentia nōn sunt idem.
+3. Praetereā, nihil subjicitur sibi ipsī. Sed persōna subjicitur essentiae: unde suppositum vel
+hypostasis nōminātur. Ergō persōna nōn est idem quod essentia.
+Sed contrā est quod Augustīnus dīcit, UIĪ Dē Trin.: Cum dīcimus persōnam Patrīs, nōn aliud
+dīcimus quam substantiam Patrīs.
+
+Respondeō dīcendum quod cōnsīderantibus dīvīnam simplicitātem, quaestiō ista in manifēstō
+habet vēritātem. Ostēnsum est enim suprā quod dīvīna simplicitās hoc requīrit, quod in Deō sit
+idem essentia et suppositum; quod in substantiīs intellēctuālibus nihil est aliud quam persōna.
+Sed difficultātem vidētur ingerere quod, multiplicātīs persōnīs dīvīnīs, essentia retinet
+ūnitātem. Et quia, ut Boētius dīcit, relātiō multiplicat Persōnārum trīnitātem, posuērunt aliquī
+hōc modō in dīvīnīs diffēre essentiam et persōnam, quō et relātiōnēs dīcēbant esse assistentēs,
+cōnsīderantēs in relātiōnibus sōlum quod ad alterum sunt, et nōn quod rēs sunt.
+Sed, sīcut suprā ostēnsum est, sīcut relātiōnēs in rēbus creātīs accidentāliter īnsunt, ita in Deō
+sunt ipsa essentia dīvīna. Ex quō sequitur quod in Deō nōn sit aliud essentia quam persōna
+
+secundum rem; et tamen quod persōnae rēāliter ab invicem distinguantur. Persōna enim, ut
+dictum est suprā, significat relātiōnem, prout est subsistēns in nātūrā dīvīnā. Relātiō autem, ad
+essentiam comparāta, nōn differt rē, sed ratiōne tantum: comparāta autem ad oppositam
+relātiōnem, habet, virtūte oppositiōnis, rēālem distīnctiōnem. Et sīc remanet ūna essentia, et
+trēs Persōnae.
+Ad prīmum ergō dīcendum quod in creātūrīs nōn potest esse distīnctiō suppositōrum per
+relātiōnēs, sed oportet quod sit per essentiālia prīncipia: quia relātiōnēs nōn sunt subsistentēs
+in creātūrīs. In dīvīnīs autem relātiōnēs sunt subsistentēs: et ideō, secundum quod habent
+oppositiōnem ad invicem, possunt distinguere supposita. Neque tamen distinguitur essentia:
+quia relātiōnēs ipsae nōn distinguuntur ab invicem secundum quod sunt rēāliter īdem cum
+essentiā.
+Ad secundum dīcendum quod, inquantum essentia et persōna in dīvīnīs differunt secundum
+intelligentiae ratiōnem, sequitur quod aliquid possit affirmārī dē ūnō, quod negātur dē alterō: et
+per cōnsequēns quod, suppositō ūnō, nōn suppōnātur alterum.
+Ad tertium dīcendum quod rēbus dīvīnīs nōmina impōnimus secundum modum rērum creātārum,
+ut suprā dictum est. Et quia nātūrae rērum creātārum individuantur per māteriam, quae
+
+subjicitur nātūrae speciēī, inde est quod indīvidua dīcuntur subjecta, vel supposita, vel
+hypostasēs. Et propter hoc etiam dīvīnae persōnae supposita vel hypostasēs nōminantur: nōn
+quod ibi sit aliqua suppositiō vel subjectiō secundum rem.
+
+ARTICULUS 2
+
+Utrum sit dīcendum trēs Persōnās esse 'ūnīus essentiae'
+
+Ad secundum sīc prōcēditur. Vidētur quod nōn sit dīcendum trēs Persōnās esse ūnīus essentiae.
+1. Dīcit enim Hilarius, in lībrō dē Synod., quod Pater et Fīlius et Spīritus Sānctus sunt quidem
+per substantiam tria, per cōnsonantiam vērō ūnum. Sed substantia Deī est ejus essentia. Ergō
+trēs Persōnae nōn sunt ūnīus essentiae.
+2. Praetereā, nōn est affirmandum aliquid dē dīvīnīs, quod auctōritāte Scrīptūrae sacrae nōn est
+expressum, ut patet per Dionȳsium, 1 cap. Dē diū. nom. Sed nunquam in Scrīptūrā sacrā
+exprimitur quod Pater et Fīlius et Spīritus Sānctus sunt ūnīus essentiae. Ergō hoc nōn est
+asserendum.
+
+3. Praetereā, nātūra dīvīna est idem quod essentia. Sufficeret ergō dīcere quod trēs Persōnae
+sunt ūnīus nātūrae.
+4. Praetereā, nōn cōnsuēvit dīcī quod persōna sit essentiae: sed magis quod essentia sit persōnae.
+Ergō neque convenienter vidētur dīcī quod trēs Persōnae sunt ūnīus essentiae.
+5. Praetereā, Augustīnus dīcit quod nōn dīcimus trēs Persōnās esse ex ūnā essentiā, nē
+intelligātur in dīvīnīs aliud esse essentiā et persōnā. Sed sīcut praepositiōnēs sunt trānsitīvae,
+ita et oblīquī. Ergō, parī ratiōne, nōn est dīcendum quod trēs Persōnae sunt ūnīus essentiae.
+6. Praetereā, id quod potest esse errōris occāsiō, nōn est in dīvīnīs dīcendum. Sed cum dīcuntur
+trēs Persōnae ūnīus essentiae vel substantiae, datur errōris occāsiō. Quia, ut Hilarius dīcit, in
+
+librō Dē synod.: Ūna substantia Patrīs et Fīliī praedicāta, aut ūnum quī duās nuncupātiōnēs
+habeat, subsistentem significat; aut dīvīsam ūnam substantiam duās imperfēctās fēcisse
+substantiās; aut tertiam priōrem substantiam, quae ā duōbus et ūsūrpātā sit et assūmptā. Nōn
+est ergō dīcendum trēs Persōnās esse ūnīus substantiae.
+Sed contrā est quod Augustīnus dīcit, in librō IĪ Contrā Maximīnum, quod hoc nōmen homoūsion,
+quod in Conciliō Nicaēnō adversus Arīānōs firmātum est, idem significat quod trēs Persōnās esse
+ūnīus essentiae.
+Respondeō dīcendum quod, sīcut suprā dictum est, intellēctus noster rēs dīvīnās nōminat, nōn
+secundum modum eārum, quia sīc eās cognōscere nōn potest; sed secundum modum in rēbus
+creātīs inventum. Et quia in rēbus sēnsibilibus, ā quibus intellēctus noster scientiam capit,
+
+nātūra alicujus speciēī per māteriam individuātur; et sīc nātūra sē habet ut fōrma, indīviduum
+autem ut suppositum fōrmae: propter hoc etiam in dīvīnīs, quantum ad modum significandī,
+essentia significātur ut fōrma trium Persōnārum. Dīcimus autem in rēbus creātīs fōrmam
+quamcumque esse ejus cujus est fōrma; sīcut sānitātem vel pulchritūdinem hominis alicujus.
+Rem autem habentem fōrmam nōn dīcimus esse fōrmae nisi cum adjectiōne alicujus adjectīvī,
+quod dēsignat illam fōrmam: ut cum dīcimus, ista mulier est ēgregiae fōrmae, iste homō est
+perfectae virtūtis. Et similiter, quia in dīvīnīs, multiplicātīs persōnīs, nōn multiplicātur
+essentia, dīcimus ūnam essentiam esse trium Persōnārum; et trēs Persōnās ūnīus essentiae, ut
+intelligantur istī genitīvī cōnstruī in dēsignātiōne fōrmae.
+Ad prīmum ergō dīcendum quod substantia sūmitur prō hypostasī; et nōn prō essentiā.
+Ad secundum dīcendum quod, licet trēs Persōnās esse ūnīus essentiae nōn inveniātur in sacrā
+Scrīptūrā per haec verba, invenītur tamen quantum ad hunc sēnsum: sīcut ibi: Ego et Pater
+
+ūnum sumus; et, Ego in Patre, et Pater in mē est. Et per multa alia habērī potest īdem.
+Ad tertium dīcendum quod, quia nātūra dēsignat prīncipium āctūs, essentia vērō ab essendō
+dīcitur, possunt dīcī aliqua ūnīus nātūrae, quae conveniunt in aliquō āctū, sīcut omnia
+calefacientia: sed ūnīus essentiae dīcī nōn possunt, nisi quōrum est ūnum esse. Et ideō magis
+exprimitur ūnitās dīvīna per hoc quod dīcitur quod trēs Persōnae sunt ūnīus essentiae, quam sī
+dīcerētur quod sunt ūnīus nātūrae.
+Ad quārtum dīcendum quod fōrma, absolūtē accepta, cōnsuēvit significārī ut ejus cujus est
+fōrma, ut virtūs Petrī. Ē conversō autem, rēs habēns fōrmam aliquam nōn cōnsuēvit significārī
+ut ejus, nisi cum volumus dētermināre sīve dēsignāre fōrmam. Et tunc requīruntur duo
+genitīvī, quōrum ūnus significet fōrmam, et alius dēterminātiōnem fōrmae, ut sī dīcātur,
+Petrus est magnae virtūtis: vel etiam requīritur ūnus genitīvus habēns vim duōrum
+
+genitivōrum, ut cum dīcitur, vir sanguinum est iste, idest effūsor multī sanguinis. Quia igitur
+essentia dīvīna significātur ut fōrma respectū persōnae, convenienter essentia persōnae dīcitur.
+Nōn autem ē conversō, nisi aliquid addātur ad dēsignātiōnem essentiae; ut sī dīcātur quod Pater
+est persōna dīvīnae essentiae, vel quod trēs Persōnae sunt ūnīus essentiae.
+Ad quīntum dīcendum quod haec praepositiō ex vel dē nōn dēsignat habitūdinem causae fōrmālis;
+sed magis habitūdinem causae efficientis vel māteriālis. Quae quidem causae in omnibus
+distinguuntur ab hīs quōrum sunt causae: nihil enim est sua māteria, neque aliquid est suum
+prīncipium āctīvum. Aliquid tamen est sua fōrma, ut patet in omnibus rēbus immateriālibus. Et
+ideō per hōc quod dīcimus trēs Persōnās ūnīus essentiae, significandō essentiam in habitūdine
+fōrmae, nōn ostenditur aliud esse essentia quam persōna: quod ostenderētur, sī dīcerēmus trēs
+
+Persōnās ex eādem essentiā.
+Ad sextum dīcendum quod, sīcut Hilarius dīcit, in librō Dē [synod].: Māle sānctīs rēbus
+praejūdicātur, sī, quia nōn sānctae ā quibusdam habentur, esse nōn dēbeant. Sīc, sī māle
+intelligitur homoūsion, quid ad mē bene intelligentem? Sit ergō ūna substantia ex nātūrae
+genitae proprietāte: nōn sit autem ex portiōne, aut ex ūniōne, aut ex commūniōne.
+
+ARTICULUS 3
+
+Utrum nōmina essentiālia praedīcentur singulāriter dē
+tribus Persōnīs
+
+Ad tertium sīc prōcēditur. Vidētur quod nōmina essentiālia, ut hoc nōmen Deus, nōn
+praedīcentur singulāriter dē tribus Persōnīs, sed plūrāliter.
+1. Sīcut enim homō significātur ut habēns hūmānitātem, ita Deus significātur ut habēns
+deitātem. Sed trēs Persōnae sunt trēs habentēs deitātem. Ergō trēs Persōnae sunt trēs dīī.
+2. Praetereā, Gen. 1,1, ubi dīcitur: In prīncipiō creāvit Deus caelum et terram, hebraica
+vēritās habet Elohim, quod potest interpretārī dīī, sīve jūdicēs. Et hoc dīcitur propter
+
+plūrālitātem Personārum. Ergō trēs Personae sunt plūrēs dīī, et nōn ūnus Deus.
+3. Praetereā, hoc nōmen rēs, cum absolūtē dīcātur, vidētur ad substantiam pertinēre. Sed hoc
+nōmen plūrāliter praedicātur dē tribus Personīs: dīcit enim Augustīnus, in lībrō Dē doctr.
+christ.: Rēs quibus fruendum est, sunt Pater et Fīlius et Spīritus Sānctus. Ergō et alia nōmina
+essentiālia plūrāliter praedicārī possunt dē tribus Personīs.
+4. Praetereā, sīcut hoc nōmen Deus significat habentem deitātem, ita hoc nōmen persona
+
+significat subsistentem in nātūrā aliquā intellēctuālī. Sed dīcimus trēs Persōnās. Ergō, eādem
+ratiōne, dīcere possumus trēs deōs.
+Sed contrā est quod dīcitur Deut. 6,4: Audī, Isrāēl, Dominus Deus tuus, Deus ūnus est.
+Respondeō dīcendum quod nōminum essentiālium quaedam significant essentiam substantīvē,
+quaedam vērō adjectīvē. Ea quidem quae substantīvē essentiam significant, praedicantur dē
+tribus Persōnīs singulāriter tantum, et nōn plūrāliter: quae vērō adjectīvē essentiam
+significant, praedicantur dē tribus Persōnīs in plūrālī. Cujus ratiō est, quia nōmina
+substantīva significant aliquid per modum substantiae: nōmina vērō adjectīva significant aliquid
+per modum accīdentis, quod inhaeret subjectō. Substantia autem, sīcut per sē habet esse, ita per
+sē habet ūnitātem vel multitūdinem: unde et singulāritās vel plūrālitās nōminis substantīvī
+
+attenditur secundum fōrmam significātam per nōmen. Accidentia autem, sīcut esse habent in
+subjectō, ita ex subjectō suscipiunt ūnitātem et multitūdinem: et ideō in adiectīvīs attenditur
+singulāritās et plūrālitās secundum supposita.
+In creātūrīs autem nōn invenītur ūna fōrma in plūribus suppositās nisi ūnitāte ōrdinis, ut
+fōrmā multitūdinis ōrdinātae. Unde nōmina significantia tālem fōrmam, sī sint substantīva,
+praedicantur dē plūribus in singulārī: nōn autem sī sint adjectīva. Dīcimus enim quod multī
+hominēs sunt collēgium vel exercitus aut populus: dīcimus tamen quod plūrēs hominēs sunt
+collēgiātī. In dīvīnīs autem essentia dīvīna significātur per modum fōrmae, ut dictum est. Quae
+quidem simplex est et maximē ūna, ut suprā ostēnsum est. Unde nōmina significantia dīvīnam
+essentiam substantīvē, singulāriter, et nōn plūrāliter, dē tribus Persōnīs praedicantur. Haec
+
+igitur est ratiō quārē Sōcratem et Platōnem et Cicerōnem dīcimus trēs hominēs; Patrem autem
+et Fīlium et Spīritum Sānctum nōn dīcimus trēs deōs, sed ūnum Deum: quia in tribus suppositīs
+hūmānae nātūrae sunt trēs hūmānitātēs; in tribus autem Persōnīs est ūna dīvīna essentia.
+Ea vērō quae significant essentiam adjectīvē, praedicantur plūrāliter dē tribus, propter
+plūrālitātem suppositōrum. Dīcimus enim trēs existentēs vel trēs sapientēs, aut trēs aeternōs
+et increātōs et immēnsōs, sī adjectīvē sūmantur. Sī vērō substantīvē sūmantur, dīcimus ūnum
+increātum, immēnsum et aeternum, ut Athanāsius dīcit.
+Ad prīmum ergō dīcendum quod, licet Deus significet habentem deitātem, est tamen alius modus
+significandī: nam Deus dīcitur substantīvē, sed habēns deitātem dīcitur adjectīvē. Unde, licet
+sint trēs habentēs deitātem, nōn tamen sequitur quod sint trēs dīī.
+Ad secundum dīcendum quod dīversae linguae habent dīversum modum loquendī. Unde, sīcut
+propter plūrālitātem suppositōrum Graecī dicut trēs hypostasēs, ita et in Hebrēō dīcitur
+plūrāliter Elohim. Nōs autem nōn dīcimus plūrāliter neque Deōs neque substantiās, nē
+plūrālitās ad substantiam referātur.
+Ad tertium dīcendum quod hoc nōmen rēs est dē trānscendentibus. Unde, secundum quod pertinet
+ad relātiōnem, plūrāliter praedicātur in dīvīnīs: secundum vērō quod pertinet ad substantiam,
+singulāriter praedicātur. Unde Augustīnus dīcit ibīdem quod eadem Trīnitās quaedam summa rēs
+
+est.
+Ad quārtum dīcendum quod fōrma significāta per hoc nōmen persōna, nōn est essentia vel nātūra,
+sed personālitās. Unde, cum sint trēs personālitātēs, idest trēs persōnālēs proprietātēs, in
+Patre et Fīliō et Spīritū Sānctō, nōn singulāriter, sed plūrāliter praedicātur dē tribus.
+
+ARTICULUS 4
+
+Utrum nōmina essentiālia concrēta possint suppōnere prō personā
+
+Ad quārtum sīc prōcēditur. Vidētur quod nōmina essentiālia concrētīva nōn possunt suppōnere
+prō personā, ita quod haec sit vēra, Deus genuit Deum.
+1. Quia, ut sophistae dīcunt, terminus singulāris īdem significat et suppōnit. Sed hoc nōmen
+
+Deus vidētur esse terminus singulāris, cum plūrāliter praedicārī nōn possit, ut dictum est.
+Ergō, cum significet essentiam, vidētur quod suppōnat prō essentiā, et nōn prō persōnā.
+2. Praetereā, terminus in subjectō positus nōn restringitur per terminum positum in
+praedicātō, ratiōne significātiōnis; sed sōlum ratiōne temporis consignificātī. Sed cum dīcō,
+Deus creat, hoc nōmen Deus suppōnit prō essentiā. Ergō cum dīcitur, Deus genuit, nōn potest
+iste terminus Deus, ratiōne praedicātī notiōnālis, suppōnere prō persōnā.
+3. Praetereā, sī haec est vēra, Deus genuit, quia Pater generat; pārī ratiōne haec erit vēra,
+Deus nōn generat, quia Fīlius nōn generat. Ergō est Deus generāns, et Deus nōn generāns. Et ita
+vidētur sequī quod sint duo dīī.
+4. Praetereā, sī Deus genuit Deum, aut sē Deum, aut alium Deum. Sed nōn sē Deum: quia, ut
+Augustīnus dīcit, in Ī Dē Trin., nūlla rēs generat sēīpsam. Neque alium Deum: quia nōn est nisi
+ūnus Deus. Ergō haec est falsa, Deus genuit Deum.
+5. Praetereā, sī Deus genuit Deum, aut Deum quī est Deus Pater, aut Deum quī nōn est Deus
+
+Pater. Sī Deum quī est Deus Pater, ergō Deus Pater est genitus. Sī Deum quī nōn est Deus
+Pater, ergō Deus est quī nōn est Deus Pater: quod est falsum. Nōn ergō potest dīcī quod Deus
+genuit Deum.
+Sed contrā est quod in Symbolō dīcitur Deum dē Deō.
+Respondeō dīcendum quod quīdam dīxērunt quod hoc nōmen Deus, et similia, propriē secundum
+suam nātūram suppōnunt prō essentiā: sed ex adjūnctō nōtiōnālī trahuntur ad suppōnendum prō
+persōnā. Et haec opīniō prōcessisse vidētur ex cōnsīderātiōne dīvīnae simplicitātis, quae
+requīrit quod in Deō īdem sit habēns et quod habētur: et sīc habēns deitātem, quod significat hoc
+nōmen Deus, est idem quod deitās.
+Sed in proprietātibus locūtiōnum, nōn tantum attendendā est rēs significāta; sed etiam modus
+significandī. Et ideō, quia hoc nōmen Deus significat dīvīnam essentiam ut in habente ipsam,
+sīcut hoc nōmen homō hūmānitātem significat in suppositō; aliī melius dīxērunt quod hoc nōmen
+
+Deus ex modō significandī habet ut propriē possit suppōnere prō persōnā, sīcut et hoc nōmen
+homō.
+Quandōque ergō hoc nōmen Deus suppōnit prō essentiā, ut cum dīcitur, Deus creat: quia hoc
+praedicātum competit subjectō ratiōne fōrmae significātae, quae est deitās. Quandōque vērō
+suppōnit persōnam: vel ūnam tantum, ut cum dīcitur Deus generat; vel duās, ut cum dīcitur
+Deus spīrat; vel trēs, ut cum dīcitur, Rēgī saeculōrum immortālī, invīsibilī, sōlī Deō, etc., Ī
+Tim. 1,17.
+Ad prīmum ergō dīcendum quod hoc nōmen, Deus, licet conveniat cum terminīs singulāribus in
+hōc, quod fōrma significāta nōn multiplicātur; convenit tamen cum terminīs commūnibus in
+hōc, quod fōrma significāta invenītur in plūribus suppositīs. Unde nōn oportet quod semper
+suppōnat prō essentiā quam significat.
+Ad secundum dīcendum quod objectiō illa prōcēdit contrā illōs quī dīcēbant quod hoc nōmen Deus
+
+nōn habet nātūrālem suppositiōnem prō personā.
+Ad tertium dīcendum quod aliter sē habet hoc nōmen Deus ad suppōnendum prō personā, et hoc
+nōmen homō. Quia enim fōrma significāta per hoc nōmen homō, idest hūmānitās, rēāliter
+dīviditur in dīversīs suppositīs, per sē suppōnit prō personā; etiamsī nihil addātur quod
+dēterminet ipsum ad personam, quae est suppositum distīnctum. Ūnitās autem sīve commūnitās
+hūmānae nātūrae nōn est secundum rem, sed sōlum secundum cōnsīderātiōnem: unde iste
+terminus homō nōn suppōnit prō nātūrā commūnī, nisi propter exigentiam alicujus additī, ut
+cum dīcitur, homō est speciēs. Sed fōrma significāta per hoc nōmen Deus, scīlicet essentia
+
+dīvīna, est ūna et commūnis secundum rem. Unde per sē suppōnit prō nātūrā commūnī: sed ex
+adjūnctō dēterminātur ejus suppositiō ad persōnam. Unde cum dīcitur, Deus generat, ratiōne
+āctūs notiōnālis suppōnit hoc nōmen Deus prō persōnā Patrīs. Sed cum dīcitur, Deus nōn
+generat, nihil additur quod dēterminet hoc nōmen ad persōnam Fīliī: unde datur intelligī quod
+generātiō repugnet dīvīnae nātūrae. Sed sī addātur aliquid pertinēns ad persōnam Fīliī, vēra
+erit locūtiō; ut sī dīcātur, Deus genitus nōn generat. Unde etiam nōn sequitur, est Deus generāns
+et est Deus nōn generāns, nisi pōnātur aliquid pertinēs ad personās; ut putā sī dīcāmus, Pater
+est Deus generāns, et Fīlius est Deus nōn generāns. Et ita nōn sequitur quod sint plūrēs dīī: quia
+Pater et Fīlius sunt ūnus Deus, ut dictum est.
+
+Ad quārtum dīcendum quod haec est falsa, Pater genuit sē Deum: quia ly sē, cum sit reciprocum,
+refert idem suppositum. Neque est contrārium quod Augustīnus dīcit, ad Maximum, quod Deus
+Pater genuit alterum sē. Quia ly sē vel est cāsus ablātīvī, ut sit sēnsus, genuit alterum ā sē. Vel
+facit relātiōnem simplicem, et sīc refert identitātem nātūrae: sed est impropria vel emphātica
+locūtiō, ut sit sēnsus, genuit alterum simillimum sibi. Similiter et haec est falsa, genuit alium
+Deum. Quia licet Fīlius sit alius ā Patre, ut suprā dictum est, nōn tamen est dīcendum quod sit
+alius Deus: quia intelligerētur quod hoc adjectīvum alius pōneret rem suam circā substantīvum
+quod est Deus; et sīc significārētur distīnctiō deitātis. Quīdam tamen concēdunt istam, genuit
+alium Deum: ita quod ly alius sit substantīvum, et ly Deus appositivē cōnstruātur cum eō. Sed
+
+hic est improprius modus loquendī, et ēvītandus, nē dētur occāsiō errōris.
+Ad quīntum dīcendum quod haec est falsa, Deus genuit Deum quī est Deus Pater: quia, cum ly
+Pater appositīvē cōnstruātur cum ly Deus, restringit ipsum ad standum prō persōnā Patrīs; ut
+sit sēnsus genuit Deum quī est ipse Pater: et sīc Pater ēsset genitus, quod est falsum. Unde
+negātīva est vēra, genuit Deum quī nōn est Deus Pater. Sī tamen intelligerētur cōnstrūctiō nōn
+esse appositīva, sed aliquid esse interpōnendum; tunc ē conversō affirmātīva ēsset vēra, et
+
+negātīva falsa; ut sit sēnsus, genuit Deum quī est Deus quī est Pater. Sed haec est extorta
+expositiō. Unde melius est quod simpliciter affirmātīva negētur, et negātīva concēdātur.
+Praepositīnus tamen dīxit quod tam negātīva quam affirmātīva est falsa. Quia hoc relātīvum quī
+in affirmātīvā potest referre suppositum: sed in negātīvā refert et significātum et suppositum.
+Unde sēnsus affirmātīvae est, quod esse Deum Patrem conveniat persōnae Fīliī. Negātīvae vērō
+sēnsus est, quod esse Deum Patrem nōn tantum removeātur ā persōnā Fīliī, sed etiam ā
+dīvīnitāte ejus. Sed hoc irrationābile vidētur: cum, secundum Philosophum, dē eōdem dē quō est
+
+affirmātiō, possit etiam esse negātiō.
+
+ARTICULUS 5
+
+Utrum nōmina essentiālia in abstractō significāta possint
+suppōnere prō persōnā
+
+Ad quīntum sīc prōcēditur. Vidētur quod nōmina essentiālia in abstractō significāta possint
+suppōnere prō persōnā, ita quod haec sit vēra, essentia generat essentiam.
+1. Dīcit enim Augustīnus, UIĪ Dē Trin.: Pater et Fīlius sunt ūna sapientia, quia ūna essentia; et
+singillātim sapientia dē sapientiā, sīcut essentia dē essentiā.
+2. Praetereā, generātīs nōbīs vel corruptīs, generantur vel corrumpuntur ea quae in nōbīs
+sunt. Sed Fīlius generātur. Ergō, cum essentiā dīvīnā sit in Fīliō, vidētur quod essentia dīvīna
+generētur.
+
+3. Praetereā, īdem est Deus et essentia dīvīna, ut ex suprā dictīs patet. Sed haec est vēra, Deus
+generat Deum, sīcut dictum est. Ergō haec est vēra, essentia generat essentiam.
+4. Praetereā, dē quōcumque praedicātur aliquid, potest suppōnere prō illō. Sed essentia dīvīna
+est Pater. Ergō essentia potest suppōnere prō persōnā Patrīs. Et sīc essentia generat.
+5. Praetereā, essentia est rēs generāns: quia est Pater, quī est generāns. Sī igitur essentia nōn
+sit generāns, erit essentia rēs generāns et nōn generāns: quod est impossibile.
+6. Praetereā, Augustīnus dīcit, in IU Dē Trin.: Pater est prīncipium tōtīus deitātis. Sed nōn est
+
+prīncipium nisi generandō vel spīrandō. Ergō Pater generat vel spīrat deitātem.
+Sed contrā est quod Augustīnus dīcit, in Ī Dē Trin., quod nūlla rēs generat sēipsam. Sed sī
+essentia generat essentiam, nōn generat nisi sēipsam: cum nihil sit in Deō, quod distinguātur ā
+dīvīnā essentiā. Ergō essentia nōn generat essentiam.
+Respondeō dīcendum quod circā hoc errāvit Abbās Ioachim, asserēns quod, sīcut dīcitur, Deus
+genuit Deum, ita potest dīcī quod essentia genuit essentiam; cōnsīderāns quod, propter dīvīnam
+simplicitātem, nōn est aliud Deus quam dīvīna essentia. Sed in hōc dēceptus fuit: quia ad
+vēritātem locūtiōnum, nōn sōlum oportet cōnsīderāre rēs significātās, sed etiam modum
+significandī, ut dictum est. Licet autem, secundum rem, sit īdem Deus quod deitās, nōn tamen
+est īdem modus significandī utrobīque. Nam hoc nōmen Deus, quia significat dīvīnam essentiam
+ut in habente, ex modō suae significātiōnis nātūrāliter habet quod possit suppōnere prō persōnā:
+
+et sīc ea quae sunt propria persōnārum, possunt praedicārī dē hōc nōmine Deus, ut dīcātur quod
+Deus est genitus vel generāns, sīcut dictum est. Sed hoc nōmen essentia nōn habet ex modō suae
+significātiōnis quod suppōnat prō persōnā: quia significat essentiam ut fōrmam abstractam. Et
+ideō ea quae sunt propria persōnārum, quibus ab invicem distinguuntur, nōn possunt essentiae
+attribuī: significārētur enim quod esset distīnctiō in essentiā dīvīnā, sīcut est distīnctiō in
+suppositīs.
+Ad prīmum ergō dīcendum quod, ad experimendam ūnitātem essentiae et persōnae, sānctī
+Doctōrēs aliquandō expressius locūtī sunt quam proprietās locūtiōnis patiātur. Unde hūjusmodī
+locūtiōnēs nōn sunt extendendae, sed expōnendae: ut scīlicet nōmina abstracta expōnantur per
+
+concrēta, vel etiam per nōmina persōnālia: ut, cum dīcitur, essentia dē essentiā, vel sapientia dē
+sapientiā, sit sēnsus, Fīlius, quī est essentia et sapientia, est dē Patre, quī est essentia et
+sapientia. In hīs tamen nōminibus abstractīs est quīdam ōrdō attendendus: quia ea quae pertinent
+ad āctum, magis propinquē sē habent ad persōnās, quia āctūs sunt suppositōrum. Unde minus
+impropria est ista, nātūra dē nātūrā, vel sapientia dē sapientiā, quam essentia dē essentiā.
+Ad secundum dīcendum quod in creātūrīs generātum nōn accipit nātūram eandem numerō quam
+generāns habet, sed aliam numerō, quae incipit in eō esse per generātiōnem dē novō, et dēsint
+
+esse per corruptiōnem: et ideō generātur et corrumpitur per accidēns. Sed Deus genitus eandem
+nātūram numerō accipit quam generāns habet. Et ideō nātūra dīvīna in Fīliō nōn generātur,
+neque per sē neque per accidēns.
+Ad tertium dīcendum quod, licet Deus et dīvīna essentia sint īdem secundum rem, tamen, ratiōne
+alterīus modī significandī, oportet loquī diversimodē dē utrōque.
+Ad quārtum dīcendum quod essentia dīvīna praedicātur dē Patre per modum identitātis, propter
+dīvīnam simplicitātem: nec tamen sequitur quod possit suppōnere prō Patre, propter dīversum
+modum significandī. Ratiō autem prōcēderet in illīs, quōrum ūnum praedicātur dē alterō sīcut
+ūniversāle dē particulārī.
+Ad quīntum dīcendum quod haec est differentia inter nōmina substantīva et adjectīva, quia
+nōmina substantīva ferunt suum suppositum: adjectīva vērō nōn, sed rem significātam pōnunt
+circā substantīvum. Unde sophistae dīcunt quod nōmina substantīva suppōnunt; adjectīva vērō
+nōn suppōnunt, sed cōpulant. Nōmina igitur persōnālia substantīva possunt dē essentiā
+
+praedicārī, propter identitātem reī: neque sequitur quod proprietās persōnālis distīnctam
+dēterminet essentiam; sed pōnitur circā suppositum importātum per nōmen substantīvum. Sed
+notiōnālia et persōnālia adjectīva nōn possunt praedicārī dē essentiā, nisi aliquō substantīvō
+adjūnctō. Unde nōn possumus dīcere quod essentia est generāns. Possumus tamen dīcere quod
+essentia est rēs generāns, vel Deus generāns, sī rēs et Deus suppōnant prō persōnā: nōn autem sī
+suppōnant prō essentiā. Unde nōn est contrādictiō, sī dīcātur quod essentia est rēs generāns, et
+rēs nōn generāns: quia prīmō rēs tenētur prō persōnā, secundō prō essentiā.
+Ad sextum dīcendum quod deitās, inquantum est ūna in plūribus suppositīs, habet quandam
+convenientiam cum fōrmā nōminis collectīvī. Unde cum dīcitur, Pater est prīncipium tōtīus
+
+deitātis, potest sūmī prō ūniversitāte Personārum; inquantum scīlicet, in omnibus Personīs
+dīvīnīs, ipsī est prīncipium. Nec oportet quod sit prīncipium suī ipsīus: sīcut aliquis dē populō
+dīcitur rēctor tōtīus populī, nōn tamen suī ipsīus. Vel potest dīcī quod est prīncipium tōtīus
+deitātis, nōn quia eam generet et spīret: sed quia eam, generandō et spīrandō, commūnicat.
+
+ARTICULUS 6
+
+Utrum personae possint praedicāre dē nōminibus essentiālibus
+
+Ad sextum sīc prōcēditur. Vidētur quod personae nōn possint praedicārī dē nōminibus
+essentiālibus concrētīs, ut dīcātur, Deus est trēs Personae, vel est Trīnitās.
+1. Haec enim est falsa, homō est omnis homō, quia prō nūllō suppositōrum verificārī potest:
+neque enim Sōcratēs est omnis homō, neque Platō, neque aliquis alius. Sed similiter ista, Deus
+est Trīnitās, prō nūllō suppositōrum nātūrae dīvīnae verificārī potest: neque enim Pater est
+
+Trīnitās, neque Fīlius, neque Spīritus Sānctus. Ergō haec est falsa, Deus est Trīnitās.
+2. Praetereā, īnferiōra nōn praedicantur dē suīs superiōribus nisi accidentālī praedicātiōne, ut
+cum dīcō, animal est homō: accidit enim animālī esse hominem. Sed hoc nōmen Deus sē habet ad
+trēs persōnās sīcut commūne ad īnferiōra, ut Damascēnus dīcit. Ergō vidētur quod nōmina
+persōnārum nōn possint praedicārī dē hōc nōmine Deus, nisi accidentāliter.
+Sed contrā est quod Augustīnus dīcit, in Sermōne Dē Fidē: Crēdimus ūnum Deum ūnam esse dīvīnī
+nōminis Trīnitātem.
+Respondeō dīcendum quod, sīcut jam dictum est, licet nōmina persōnālia vel notiōnālia adjectīva
+nōn possint praedicārī dē essentiā; tamen substantīva possunt, propter reālem identitātem
+
+essentiae et persōnae. Essentia autem dīvīna nōn sōlum idem est rēāliter cum ūnā persōnā, sed
+cum tribus. Unde et ūna persōna, et duae, et trēs possunt dē essentiā praedicārī; ut sī dīcāmus,
+essentia est Pater et Fīlius et Spīritus Sānctus. Et quia hoc nōmen Deus per sē habet quod
+suppōnat prō essentiā, ut dictum est, ideō, sīcut haec est vēra: essentia est trēs Persōnae, ita
+
+haec est vēra: Deus est trēs Persōnae.
+Ad prīmum ergō dīcendum quod, sīcut suprā dictum est, hoc nōmen homō per sē habet suppōnere
+prō persōnā; sed ex adjūnctō habet quod stet prō nātūrā commūnī. Et ideō haec est falsa, homō
+est omnis homō: quia prō nūllō suppositō verificārī potest. Sed hoc nōmen Deus per sē habet
+quod stet prō essentiā. Unde, licet prō nūllō suppositōrum dīvīnae nātūrae haec sit vēra, Deus
+est Trīnitās, est tamen vēra prō essentiā. Quod nōn attendēns, Porretānus eam negāvit.
+Ad secundum dīcendum quod, cum dīcitur, Deus vel dīvīna essentia est Pater, est praedicātiō per
+identitātem, nōn autem sīcut īnferiōris dē superiōrī: quia in dīvīnīs nōn est ūniversāle et
+
+singulāre. Unde, sīcut est per sē ista, Pater est Deus, ita et ista, Deus est Pater; et nūllō modō
+per accidēns.
+ARTICULUS 7
+
+Utrum nōmina essentiālia sint approprianda Persōnīs
+
+Ad septimum sīc prōcēditur. Vidētur quod nōmina essentiālia nōn sint approprianda Persōnīs.
+1. Quod enim potest vergere in errōrem fideī, vītandum est in dīvīnīs: quia, ut Hierōnymus
+dīcit, ex verbīs inōrdinātē prōlātīs incurritur haeresis. Sed ea quae sunt commūnia tribus
+Persōnīs appropriāre alicui, potest vergere in errōrem fideī: quia potest intelligī quod vel illī
+tantum Persōnae conveniant cui appropriantur; vel quod magis conveniant eī quam aliīs. Ergō
+
+essentiālia attribūta nōn sunt approprianda Personīs.
+2. Praetereā, essentiālia attribūta, in abstractō significāta, significant per modum fōrmae. Sed
+ūna persona nōn sē habet ad aliam ut fōrma: cum fōrmā ab eō cujus est fōrma, suppositō nōn
+distinguātur. Ergō essentiālia attribūta, maximē in abstractō significāta, nōn dēbent
+appropriārī Personīs.
+3. Praetereā, proprium prius est appropriātō: proprium enim est dē ratiōne appropriātī. Sed
+essentiālia attribūta, secundum modum intelligendī, sunt priōra personīs, sīcut commūne est
+prius propriō. Ergō essentiālia attribūta nōn dēbent esse appropriāta.
+
+Sed contrā est quod Apostolus dīcit, Ī Cor. 1,24: Chrīstum, Deī virtūtem et Deī sapientiam.
+Respondeō dīcendum quod, ad manifēstātiōnem fideī, conveniēns fuit essentiālia attribūta
+Persōnīs appropriārī. Licet enim Trīnitās Persōnārum dēmōnstrātiōne probārī nōn possit, ut
+suprā dictum est, convenit tamen ut per aliqua magis manifēsta dēclārētur. Essentiālia vērō
+attribūta sunt nōbīs magis manifēsta secundum ratiōnem, quam propria Persōnārum: quia ex
+creātūrīs, ex quibus cognitiōnem accipimus, possumus per certitūdinem dēvenīre in
+cognitiōnem essentiālium attribūtōrum; nōn autem in cognitiōnem persōnālium proprietātum,
+ut suprā dictum est. Sīcut igitur similitūdine vestīgiī vel imāginis in creātūrīs inventā ūtimur
+ad manifēstātiōnem dīvīnārum Persōnārum, ita et essentiālibus attribūtīs. Et haec manifēstātiō
+Persōnārum per essentiālia attribūta, appropriātiō nōminātur.
+
+Possunt autem manifēstārī Persōnae dīvīnae per essentiālia attribūta dupliciter. Ūnō modō, per
+viam similitūdinis: sīcut ea quae pertinent ad intellēctum, appropriantur Fīliō, quī prōcēdit per
+modum intellēctūs ut Verbum. Aliō modō, per modum dissimilitūdinis: sīcut potentia
+appropriātur Patrī, ut Augustīnus dīcit, quia apud nōs patrēs solent esse propter senectūtem
+īnfirmī; nē tāle aliquid suspicēmur in Deō.
+Ad prīmum ergō dīcendum quod essentiālia attribūta nōn sīc appropriantur Persōnīs ut eīs esse
+propria asserantur: sed ad manifestandum Persōnās per viam similitūdinis vel dissimilitūdinis,
+ut dictum est. Unde nūllus error fideī sequitur, sed magis manifēstātiō vēritātis.
+Ad secundum dīcendum quod, sī sīc appropriarentur essentiālia attribūta Persōnīs, quod essent
+eīs propria, sequerētur quod ūna persōna sē habēret ad aliam, in habitūdine fōrmae. Quod
+
+exclūdit Augustīnus, in VII Dē Trin., ostendēns quod Pater nōn est sapiēns sapientiā quam genuit,
+quasi sōlus Fīlius sit sapientia; ut sīc Pater et Fīlius simul tantum possint dīcī sapiēns, nōn
+autem Pater sine Fīliō. Sed Fīlius dīcitur sapientia Patrīs, quia est sapientia dē Patre sapientiā:
+uterque enim per sē est sapientia, et simul ambō ūnā sapientiā. Unde Pater nōn est sapiēns
+sapientiā quam genuit, sed sapientia quae est sua essentia.
+Ad tertium dīcendum quod, licet essentiāle attribūtum, secundum ratiōnem propriam, sit prius
+quam Persōna, secundum modum intelligendī; tamen, in quantum habet ratiōnem appropriātī,
+nihil prohibet proprium Persōnae esse prius quam appropriātum. Sīcut cōlor posterior est
+
+corpore, inquantum est corpus: prius tamen est nātūrāliter corpore albō, inquantum est album.
+
+ARTICULUS 8
+
+Utrum convenienter ā sacrīs Doctōribus sint essentiālia Persōnīs attribūta
+
+Ad octāvum sīc prōcēditur. Vidētur quod inconvenienter ā sacrīs Doctōribus sint essentiālia
+Persōnīs attribūta.
+1. Dīcit enim Hilarius, in IĪ Dē Trin.: Aeternitās est in Patre, speciēs in Imāgine, ūsus in
+Mūnere. In quibus verbīs pōnit tria nōmina propria Persōnārum: scīlicet nōmen Patrīs; et
+nōmen Imāginis, quod est proprium Fīliō, ut suprā dictum est: et nōmen Mūneris, sīve Dōnī,
+quod est proprium Spīritūs Sānctī, ut suprā habitum est. Pōnit etiam tria appropriāta: nam
+aeternitātem appropriat Patrī, speciem Fīliō, ūsum Spīrituī Sānctō. Et vidētur quod
+irratiōnābiliter. Nam aeternitās importat dūrātiōnem essendi, speciēs vērō est essendi
+
+prīncipium, ūsūs vērō ad operātiōnem pertinēre vidētur. Sed essentia et operātiō nūllī
+Persōnae appropriārī inveniuntur. Ergō inconvenienter videntur ista appropriāta Persōnīs.
+2. Praetereā, Augustīnus, in Ī Dē doctr. chrīst., sīc dīcit: In Patre est ūnitās, in Fīliō aequālitās,
+in Spīritū Sānctō ūnitātis aequālitātisque concordia. Et vidētur quod inconvenienter. Quia ūna
+Persōna nōn dēnōminātur fōrmāliter per id quod appropriātur alterī: nōn enim est sapiēns
+Pater sapientiā genitā, ut dictum est. Sed, sīcut ibīdem subditur, tria haec ūnum omnia sunt
+propter Patrem, aequālia omnia propter Fīlium, connexa omnia propter Spīritum Sānctum.
+Nōn ergō convenienter appropriantur Persōnīs.
+3. Item, secundum Augustīnum, Patrī attribuitur potentia, Fīliō sapientia, Spīrituī Sānctō
+bonitās. Et vidētur hoc esse inconveniēns. Nam virtūs ad potentiam pertinet. Virtūs autem
+invenītur appropriārī Fīliō, secundum illud Ī ad Cor. 1,24, Chrīstum, Deī virtūtem; et etiam
+Spīrituī Sānctō, secundum illud Lc. 6,19: Virtūs dē illō exībat, et sānābat omnēs. Nōn ergō
+potentia Patrī est approprianda.
+
+4. Item, Augustīnus, in librō Dē Trin., dīcit: Nōn cōnfūsē accipiendum est quod ait Apostolus, 'ex
+ipsō, et per ipsum, et in ipsō' -- 'ex ipsō' dīcēns propter Patrem; 'per ipsum' propter Fīlium;
+'in ipsō' propter Spīritum Sānctum. Sed vidētur quod inconvenienter. Quia per hoc quod dīcit
+in ipsō, vidētur importārī habitūdō causae fīnālis, quae est prīma causārum. Ergō ista habitūdō
+causae dēbēret appropriārī Patrī, quī est prīncipium nōn dē prīncipiō.
+5. Item, invenītur vēritās appropriārī Fīliō, secundum illud Iō. 16,6: Ego sum via, vēritās et
+vīta. Et similiter liber vītae, secundum illud Psalmī 39,8: In capite librī scrīptum est dē mē:
+Glossa, idest apud Patrem, quī est caput meum. Et similiter hoc quod dīcō Quī est: quia super
+illud Īs. 65,1, Ecce ego, ad gentēs, dīcit Glossa: Fīlius loquitur, quī dīxit Moysī, Ego sum quī
+
+sum. Sed vidētur quod propria sint Fīliī, et nōn appropriāta. Nam vēritās, secundum
+Augustīnum, in lībrō Dē vērā religiōne, est summa similitūdō prīncipiī, absque omnī
+dissimilitūdine, et sīc vidētur quod propriē conveniat Fīliō, quī habet prīncipium. Liber etiam
+vītae vidētur proprium aliquid esse, quia significat ēns ab aliō: omnis enim liber ab aliquō
+scrībitur. Hoc etiam ipsum Quī est vidētur esse proprium Fīliō. Quia sī, cum Mōysī dīcitur, Ego
+sum quī sum, loquitur Trīnitās, ergō Mōysēs poterat dīcere: Ille quī est Pater et Fīlius et
+Spīritus Sānctus, mīsit mē ad vōs. Ergō et ulterius dīcere poterat: Ille quī est Pater et Fīlius et
+Spīritus Sānctus, mīsit mē ad vōs, dēmōnstrandō certam Persōnam. Hoc autem est falsum: quia
+
+nūlla persōna est Pater et Fīlius et Spīritus Sānctus. Nōn ergō potest esse commūne Trīnitātī:
+sed est proprium Fīliī.
+Respondeō dīcendum quod intellēctus noster, quī ex creātūrīs in Deī cognitiōnem manudūcitur,
+oportet quod Deum cōnsīderet secundum modum quem ex creātūrīs assūmit. In cōnsīderātiōne
+autem alicujus creātūrae, quātuor per ōrdinem nōbīs occurrunt. Nam prīmō, cōnsīderātur rēs
+ipsa absolūtē, inquantum est ēns quoddam. Secunda autem cōnsīderātiō reī est, inquantum est
+ūna. Tertia cōnsīderātiō reī est, secundum quod inest eī virtūs ad operandum et ad causandum.
+Quārta autem cōnsīderātiō reī est, secundum habitūdinem quam habet ad causāta. Unde haec
+etiam quadruplex cōnsīderātiō circā Deum nōbīs occurrit.
+Secundum igitur prīmam cōnsīderātiōnem, quā cōnsīderātur absolūtē Deus secundum esse suum,
+sīc sūmitur appropriātiō Hilāriī, secundum quam aeternitās appropriātur Patrī, speciēs Fīliō,
+
+ūsus Spīrituī Sānctō. Aeternitās enim, inquantum significat esse nōn prīncipiātum,
+similitūdinem habet cum propriō Patrīs, quī est prīncipium nōn dē prīncipiō.
+Speciēs autem, sīve pulchritūdō, habet similitūdinem cum propriīs Fīliī. Nam ad
+pulchritūdinem tria requīruntur. Prīmō quidem, integritās sīve perfectiō: quae enim diminūta
+sunt, hōc ipsō turpia sunt. Et dēbita prōportiō sīve cōnsonantia. Et iterum clāritās: unde quae
+habent colōrem nitidum, pulchra esse dīcuntur. Quantum igitur ad prīmum, similitūdinem
+habet cum propriō Fīliī, inquantum est Fīlius habēns in sē vērē et perfectē nātūram Patrīs.
+Unde, ad hoc innuendum, Augustīnus in suā expositiōne dīcit: ubi, scīlicet in Fīliō, summa et
+prīma vīta est, etc. Quantum vērō ad secundum, convenit cum propriō Fīliī, inquantum est
+
+imāgō expressa Patrīs. Unde vidēmus quod aliqua imāgō dīcitur esse pulchra, sī perfectē
+repraesentat rem, quamvīs turpem. Et hoc tetigit Augustīnus cum dīcit: ubi est tanta
+convenientia, et prīma aequālitās, etc. Quantum vērō ad tertium, convenit cum propriō Fīliī,
+inquantum est Verbum, quod quidem lūx est, et splendor intellēctūs, ut Damascēnus dīcit. Et hoc
+tangit Augustīnus cum dīcit: tanquam Verbum perfectum cui nōn dēsit aliquid, et ars quaedam
+omnipotentis Deī, etc.
+Ūsus autem habet similitūdinem cum propriīs Spīritūs Sānctī, largō modō accipiendō ūsum,
+secundum quod ūtī comprehendit sub sē etiam fruī; prout ūtī est assūmere aliquid in facultātem
+voluntātis, et fruī est cum gaudiō ūtī, ut Augustīnus, X Dē Trin., dīcit. Ūsus ergō quō Pater et
+
+Fīlius sē invicem fruuntur, convenit cum propriō Spīritūs Sānctī, inquantum est Amor. Et hoc
+est quod Augustīnus dīcit. Illa dīlēctiō, dēlectātiō, fēlīcitās vel beātitūdō, ūsus ab illō appellātus
+est. Ūsus vērō quō nōs fruimur Deō, similitūdinem habet cum propriō Spīritūs Sānctī,
+inquantum est Dōnum. Et hoc ostendit Augustīnus cum dīcit: Est in Trīnitāte Spīritus Sānctus,
+Genitōris Genitīque suāvitās, ingentī largitāte atque ūbertāte nōs perfundēns.
+Et sīc patet quārē aeternitās, speciēs et ūsūs Persōnīs attribuantur vel approprientur, nōn
+autem essentia vel operātiō. Quia in ratiōne hōrum, propter suī commūnitātem, nōn invenītur
+aliquid similitūdinem habēns cum propriīs Persōnārum.
+Secunda vērō cōnsīderātiō Deī est, inquantum cōnsīderātur ut ūnus. Et sīc Augustīnus Patrī
+appropriat ūnitātem, Fīliō aequālitātem, Spīrituī Sānctō concordiam sīve connexiōnem. Quae
+quidem tria ūnitātem importāre manifēstum est: sed differenter. Nam ūnitās dīcitur absolūtē,
+
+nōn praesuppōnēns aliquid aliud. Et ideō appropriātur Patrī, quī nōn praesuppōnit aliquam
+persōnam, cum sit prīncipium nōn dē prīncipiō. Aequālitās autem importat ūnitātem in
+respectū ad alterum: nam aequāle est quod habet ūnam quantitātem cum aliō. Et ideō aequālitās
+appropriātur Fīliō, quī est prīncipium dē prīncipiō. Connexiō autem importat ūnitātem
+aliquōrum duōrum. Unde appropriātur Spīrituī Sānctō, inquantum est ā duōbus.
+Ex quō etiam intelligī potest quod dīcit Augustīnus, tria esse ūnum propter Patrem, aequālia
+propter Fīlium, connexa propter Spīritum Sānctum. Manifēstum est enim quod illī attribuitur
+ūnumquodque, in quō prīmō invenītur: sīcut omnia īnferiōra dīcuntur vīvere propter animam
+vegetābilem, in quā prīmō invenītur ratiō vītae in istīs īnferiōribus. Ūnitās autem statim
+invenītur in persōnā Patrīs, etiam, per impossibile, remōtīs aliīs Persōnīs. Et ideō aliae
+Persōnae ā Patre habent ūnitātem. Sed remōtīs aliīs Persōnīs, nōn invenītur aequālitās in
+Patre: sed statim, positō Fīliō, invenītur aequālitās. Et ideō dīcuntur omnia aequālia propter
+Fīlium: nōn quod Fīlius sit prīncipium aequālitātis Patrī; sed quia, nisi esset Patrī aequālis
+Fīlius, Pater aequālis nōn posset dīcī. Aequālitās enim ejus prīmō cōnsīderātur ad Fīlium: hōc
+enim ipsum quod Spīritus Sānctus Patrī aequālis est, ā Fīliō habet. Similiter, exclūsō Spīritū
+Sānctō, quī est duōrum nexūs, nōn posset intelligī ūnitās connexiōnis inter Patrem et Fīlium. Et
+ideō dīcuntur omnia esse connexa propter Spīritum Sānctum: quia, positō Spīritū Sānctō,
+
+invenītur unde Pater et Fīlius possint dīcī connexī.
+Secundum vērō tertiam cōnsīderātiōnem, quā in Deō sufficiēns virtūs cōnsīderātur ad
+causandum, sūmitur tertia appropriātiō, scīlicet potentiae, sapientiae et bonitātis. Quae quidem
+appropriātiō fit et secundum ratiōnem similitūdinis, sī cōnsīderētur quod in dīvīnīs Persōnīs
+est: et secundum ratiōnem dissimilitūdinis, sī cōnsīderētur quod in creātūrīs est. Potentia enim
+habet ratiōnem prīncipiī. Unde habet similitūdinem cum Patre caelestī, quī est prīncipium
+tōtīus dīvīnitātis. Dēficit autem interdum patrī terrēnō, propter senectūtem. Sapientia vērō
+similitūdinem habet cum Fīliō caelestī, inquantum est Verbum, quod nihil aliud est quam
+conceptus sapientiae. Dēficit autem interdum fīliō terrēnō, propter temporis paucitātem.
+Bonitās autem, cum sit ratiō et objectum amōris, habet similitūdinem cum Spīritū dīvīnō, quī
+est Amor. Sed repugnantiam habēre vidētur ad spīritum terrēnum, secundum quod importat
+violentam quandam impulsiōnem; prout dīcitur Īs. 25,4: spīritus rōbustōrum quasi turbō
+impellēns parietem.
+Virtūs autem appropriātur Fīliō et Spīrituī Sānctō, nōn secundum quod virtūs dīcitur ipsa
+potentia reī: sed secundum quod interdum virtūs dīcitur id quod ā potentiā reī prōcēdit, prout
+dīcimus aliquod virtuōsum factum esse virtūtem alicujus agentis.
+Secundum vērō quārtam cōnsīderātiōnem, prout cōnsīderātur Deus in habitūdine ad suōs
+effectūs, sūmitur illa appropriātiō ex quō, per quem, et in quō. Haec enim praepositiō ex
+importat quandōque quidem habitūdinem causae māteriālis, quae locum nōn habet in dīvīnīs:
+aliquandō vērō habitūdinem causae efficientis. Quae quidem competit Deō ratiōne suae potentiae
+
+āctīvae: unde et appropriātur Patrī, sīcut et potentia. Haec vērō praepositiō per dēsignat
+quidem quandōque causam mediam; sīcut dīcimus quod faber operātur per martellum. Et sīc ly
+per quandōque nōn est appropriātum, sed proprium Fīliī, secundum illud Iō. 1,3: Omnia per
+ipsum facta sunt; nōn quia Fīlius sit īnstrūmentum, sed quia ipse est prīncipium dē prīncipiō.
+Quandōque vērō dēsignat habitūdinem fōrmae per quam agēns operātur; sīcut dīcimus quod
+artifex operātur per artem. Unde, sīcut sapientia et ars appropriantur Fīliō, ita et ly per
+quem. Haec vērō praepositiō in dēnotat propriē habitūdinem continentis. Continet autem Deus
+rēs dupliciter. Ūnō modō, secundum suās similitūdinēs; prout scīlicet rēs dīcuntur esse in Deō,
+inquantum sunt in ejus scientiā. Et sīc hoc quod dīcō in ipsō, esset appropriandum Fīliō. Āliō
+vērō modō continentur rēs ā Deō, inquantum Deus suā bonitāte eās cōnservat et gubernat, ad
+fīnem convenientem addūcendō. Et sīc ly in quō appropriātur Spīrituī Sānctō, sīcut et bonitās.
+Nec oportet quod habitūdō causae fīnālis, quamvīs sit prīma causārum, appropriētur Patrī, quī
+
+est prīncipium nōn dē prīncipiō: quia Personae dīvīnae, quārum Pater est prīncipium, nōn
+prōcēdunt ut ad fīnem, cum quālibet illārum sit ultimus fīnis; sed nātūrālī prōcessiōne, quae
+magis ad ratiōnem nātūrālis potentiae pertinēre vidētur.
+Ad illud vērō quod dē aliīs quaeritur, dīcendum quod vēritās, cum pertineat ad intellēctum, ut
+suprā dictum est, appropriātur Fīliō: nōn tamen est proprium ejus. Quia vēritās, ut suprā
+dictum est, cōnsīderārī potest prout est in intellēctū, vel prout est in rē. Sīcut igitur
+intellēctūs et rēs essentiāliter sūmpta sunt essentiālia et nōn persōnālia, ita et vēritās.
+Dēfīnītiō autem Augustīnī inducta, datur dē vēritāte secundum quod appropriātur Fīliō.
+Līber autem vītae in rēctō quidem importat nōtitiam, sed in oblīquō vītam: est enim, ut suprā
+dictum est, nōtitia Deī dē hīs quī habitūrī sunt vītam aeternam. Unde appropriātur Fīliō: licet
+vīta appropriētur Spīrituī Sānctō, inquantum importat quendam interiōrem mōtum, et sīc
+convenit cum propriō Spīritūs Sānctī, inquantum est Amor. Esse autem scrīptum ab aliō, nōn
+
+est dē ratiōne librī inquāntum est līber; sed inquāntum est quoddam artificiātum. Unde nōn
+importat orīginem, neque est persōnāle, sed appropriātum Persōnae.
+Ipsum autem Quī est appropriātur persōnae Fīliī, nōn secundum propriam ratiōnem, sed ratiōne
+adjūnctī: inquāntum scīlicet in locūtiōne Deī ad Moysēn, praefigurābātur līberātiō hūmānī
+generis, quae facta est per Fīlium. Sed tamen, secundum quod ly Quī sūmitur relātīvē, posset
+referre interdum persōnam Fīliī: et sīc sūmerētur persōnāliter, ut putā sī dīcātur, Fīlius est
+
+genitus Quī est; sīcut et Deus genitus persōnāle est. Sed īnfīnītē sūmptum est essentiāle. Et
+licet hoc prōnōmen iste, grammaticē loquendō, ad aliquam certam persōnam videātur pertinēre;
+tamen quaelibet rēs dēmonstrābilis, grammaticē loquendō, persōna dīcī potest, licet secundum
+reī nātūram nōn sit persōna; dīcimus enim iste lapis, et iste asinus. Unde et, grammaticē
+loquendō, essentia dīvīna, secundum quod significātur et suppōnitur per hoc nōmen Deus, potest
+dēmōnstrārī hōc prōnōmine iste; secundum illud Ex. 15,2: Iste Deus meus, et glōrificābō eum.
+
+
+
+
+
+St. Thomās Aquīnās
+Christian Latin
+The Latin Library
+The Classics Pāge
+
