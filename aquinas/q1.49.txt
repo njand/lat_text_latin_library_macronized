@@ -1,0 +1,279 @@
+St. Thomās Aquīnās: Summa Theologica, Prīma Pars Quaestiō XLIX
+
+
+
+
+SUMMMA THEOLOGICAE
+
+ANGELICĪ DOCTŌRIS SĀNCTĪ THOMAE AQUĪNĀTIS
+
+PRĪMA PARS
+QUAESTIŌ XLIX
+
+Dē causā malī
+
+in trēs articulōs dīvīsa
+
+
+
+
+
+
+Cōnsequenter quaeritur dē causā malī.
+Et circā hoc quaeruntur tria.
+
+Prīmō: utrum bonum possit esse causa malī.
+Secundō: utrum summum bonum, quod est Deus, sit causa malī.
+Tertiō: utrum sit aliquod summum malum, quod sit prīma causa omnium malōrum.
+
+ARTICULUS 1
+
+Utrum bonum possit esse causa malī
+
+
+Ad prīmum sīc prōcēditur. Vidētur quod bonum nōn possit esse causa malī.
+
+1. Dīcitur enim Mt. 7,18: Nōn potest arbor bona malōs frūctūs facere.
+
+2. Praetereā, ūnum contrāriōrum nōn potest esse causa alterīus. Malum autem est contrārium
+bonō. Ergō bonum nōn potest esse causa malī.
+
+3. Praetereā, effectus dēficiēns nōn prōcēdit nisi ā causā dēficiente. Sed malum, sī causam
+habeat, est effectus dēficiēns. Ergō habet causam dēficientem. Sed omne dēficiēns malum est.
+Ergō causa malī nōn est nisi malum.
+
+4. Praetereā, Dionȳsius dīcit, 4 cap. Dē diū. nōm., quod malum nōn habet causam. Ergō bonum
+
+nōn est causa malī.
+
+Sed contrā est quod Augustīnus dīcit, Contrā [luliānum]: Nōn fuit omnīnō unde orīrī posset malum,
+nisi ex bonō.
+
+Respondeō dīcendum quod necesse est dīcere quod omne malum aliquāliter causam habeat. Malum
+enim est dēfectus bonī quod nātum est et dēbet habērī. Quod autem aliquid dēficiat ā suā nātūrālī
+et dēbitā dispositiōne, nōn potest prōvenīre nisi ex aliquā causā trahente rem extrā suam
+dispositiōnem: nōn enim grave movētur sūrsum nisi ab aliquō impellente, nec agēns dēficit in
+suā āctiōne nisi propter aliquod impedīmentum. Esse autem causam nōn potest convenīre nisi
+
+bonō: quia nihil potest esse causa nisi inquantum est ēns, omne autem ēns, inquantum
+hūjusmodī, bonum est. Et sī cōnsīderēmus speciālēs ratiōnēs causārum, agēns et fōrma et fīnis
+perfectiōnem quandam important, quae pertinet ad ratiōnem bonī: sed et māteria, inquantum est
+potentia ad bonum, habet ratiōnem bonī.
+Et quidem quod bonum sit causa malī per modum causae māteriālis, jam ex praemissīs patet:
+ostēnsum est enim quod bonum est subjectum malī. Causam autem fōrmālem malum nōn habet:
+sed est magis prīvātiō fōrmae. Et similiter nec causam fīnālem: sed magis est prīvātiō ōrdinis ad
+fīnem dēbitum; nōn sōlum enim fīnis habet ratiōnem bonī, sed etiam ūtile, quod ōrdinātur ad
+fīnem. Causam autem per modum agentis habet malum: nōn autem per sē, sed per accidēns.
+
+Ad cujus ēvidentiam, sciendum est quod aliter causātur malum in āctiōne, et aliter in effectū. In
+āctiōne quidem causātur malum propter dēfectum alicujus prīncipiōrum āctiōnis, vel
+prīncipālis agentis, vel īnstrūmentālis: sīcut dēfectus in mōtū animālis potest contingere vel
+propter dēbilitātem virtūtis mōtīvae, ut in puerīs; vel propter sōlam ineptitūdinem
+īnstrūmentī, ut in claudīs. Malum autem in rē aliquā, nōn tamen in propriō effectū agentis,
+causātur quandōque ex virtūte agentis; quandōque autem ex dēfectū ipsīus, vel māteriae. Ex
+virtūte quidem vel perfectiōne agentis, quandō ad fōrmam intentam ab agente sequitur ex
+necessitāte alterīus fōrmae prīvātiō; sīcut ad fōrmam ignis sequitur prīvātiō fōrmae āeris vel
+aquae. Sīcut ergō, quantō ignis fuerit perfectior in virtūte, tantō perfectius imprimit fōrmam
+suam, ita etiam tantō perfectius corrumpit contrārium: unde malum et corruptiō āeris et aquae,
+est ex perfectiōne ignis. Sed hoc est per accidēns: quia ignis nōn intendit prīvāre fōrmam aquae,
+
+sed indūcere fōrmam propriam; sed hōc faciendō, causat et illud per accidēns. Sed sī sit dēfectus
+in effectū propriō ignis, putā quod dēficiat ā calefaciendō, hoc est vel propter dēfectum āctiōnis,
+quī redundat in dēfectum alicujus prīncipiī, ut dictum est; vel ex indisposītiōne māteriae, quae
+nōn recipit āctiōnem ignis agentis. Sed et hoc ipsum quod est esse dēficiēns, accidit bonō, cui per
+sē competit agere. Unde vērum est quod malum secundum nūllum modum habet causam nisi per
+accidēns. Sīc autem bonum est causa malī.
+
+Ad prīmum ergō dīcendum quod, sīcut Augustīnus dīcit, Contrā [luliān].: arborem malam appellat
+Dominus voluntātem malam, et arborem bonam, voluntātem bonam. Ex voluntāte autem bonā nōn
+
+prōdūcitur āctus mōrālis malus: cum ex ipsā voluntāte bonā jūdicētur āctus mōrālis bonus. Sed
+tamen ipse mōtus malae voluntātis causātur ā creātūrā ratiōnālī, quae bona est. Et sīc est causa
+malī.
+
+Ad secundum dīcendum quod bonum nōn causat illud malum quod est sibi contrārium, sed
+quoddam aliud: sīcut bonitās ignis causat malum aquae; et homō bonus secundum suam nātūram,
+causat malum āctum secundum mōrem. Et hoc ipsum per accidēns est, ut dictum est. Invenītur
+autem quod etiam ūnum contrāriōrum causat aliud per accidēns: sīcut frīgidum exterius
+ambiēns calefacit, inquantum calor retrahitur ad interiōra.
+
+
+Ad tertium dīcendum quod malum habet causam dēficientem aliter in rēbus voluntāriīs, et
+nātūrālibus. Agēns enim nātūrāle prōdūcit effectum suum tālem quāle ipsum est, nisi
+impediātur ab aliquō extrinsecō: et hoc ipsum est quīdam dēfectus ejus. Unde nunquam sequitur
+malum in effectū, nisi praeexistat aliquod aliud malum in agente vel māteriā, sīcut dictum est.
+Sed in rēbus voluntāriīs, dēfectus āctiōnis ā voluntāte āctū dēficientī prōcēdit, inquantum nōn
+subjicit sē āctū suae rēgulae. Quī tamen dēfectus nōn est culpa: sed sequitur culpa ex hōc quod
+cum tālī dēfectū operātur.
+
+Ad quārtum dīcendum quod malum nōn habet causam per sē, sed per accidēns tantum, ut dictum
+est.
+
+ARTICULUS 2
+
+Utrum summum bonum, quod est Deus, sit causa malī
+
+Ad secundum sīc prōcēditur. Vidētur quod summum bonum, quod est Deus, sit causa malī.
+
+
+1. Dīcitur enim Īs. 45,6-7: Ego Dominus, et nōn est alter Deus, fōrmāns lūcem et creāns
+tenebrās, faciēns pācem et creāns malum. Et Amos 3,6: Sī erit malum in cīvitāte, quod Dominus
+nōn fēcerit.
+
+2. Praetereā, effectus causae secundae redūcitur in causam prīmam. Bonum autem est causa
+malī, ut dictum est. Cum igitur omnis bonī causa sit Deus, ut suprā ostēnsum est, sequitur quod
+etiam omne malum sit ā Deō.
+
+3. Praetereā, sīcut dīcitur in IĪ Physic., īdem est causa salūtis nāvis, et perīculī. Sed Deus est
+causa salūtis omnium rērum. Ergō est ipse causa omnis perditiōnis et malī.
+
+
+Sed contrā est quod dīcit Augustīnus, in librō Octōgintā trium quaest., quod Deus nōn est auctor
+malī, quia nōn est causa tendendī ad nōn esse.
+
+Respondeō dīcendum quod, sīcut ex dictīs patet, malum quod in dēfectū āctiōnis cōnsistit, semper
+causātur ex dēfectū agentis. In Deō autem nūllus dēfectus est, sed summa perfectiō, ut suprā
+ostēnsum est. Unde malum quod in dēfectū āctiōnis cōnsistit, vel quod ex dēfectū agentis
+causātur, nōn redūcitur in Deum sīcut in causam.
+Sed malum quod in corruptiōne rērum aliquārum cōnsistit, redūcitur in Deum sīcut in causam.
+Et hoc patet tam in nātūrālibus quam in voluntāriīs. Dictum est enim quod aliquod agēns,
+inquantum suā virtūte prōdūcit aliquam fōrmam ad quam sequitur corruptiō et dēfectus, causat
+suā virtūte illam corruptiōnem et dēfectum. Manifēstum est autem quod fōrma quam
+prīncipāliter Deus intendit in rēbus creātīs, est bonum ōrdinis ūniversī. Ōrdō autem ūniversī
+requīrit, ut suprā dictum est, quod quaedam sint quae dēficere possint, et interdum dēficiant. Et
+
+sīc Deus, in rēbus causandō bonum ōrdinis ūniversī, ex cōnsequentī, et quasi per accidēns,
+causāt corruptiōnēs rērum; secundum illud quod dīcitur Ī Reg. 2,6: Dominus mortificat et
+vīvificat. Sed quod dīcitur Sap. 1,13, quod Deus mortem nōn fēcit, intelligitur quasi per sē
+intentam. Ad ōrdinem autem ūniversī pertinet etiam ōrdō jūstitiae, quī requīrit ut peccātōribus
+poena īnferātur. Et secundum hoc, Deus est auctor malī quod est poena: nōn autem malī quod est
+culpa, ratiōne suprā dictā.
+
+Ad prīmum ergō dīcendum quod auctōritātēs illae loquuntur dē malō poenae, nōn autem dē malō
+culpae.
+
+Ad secundum dīcendum quod effectus causae secundae dēficientis redūcitur in causam prīmam
+nōn dēficientem, quantum ad id quod habet entitātis et perfectiōnis: nōn autem quantum ad id quod
+habet dē dēfectū. Sīcut quidquid est mōtūs in claudicātiōne, causātur ā virtūte motīvā; sed quod
+est obliquitātis in eā, nōn est ex virtūte motīvā, sed ex curvitāte crūris. Et similiter quidquid
+
+est entitātis et āctiōnis in āctiōne malā, redūcitur in Deum sīcut in causam: sed quod est ibi
+dēfectus, nōn causātur ā Deō, sed ex causā secundā dēficientī.
+
+Ad tertium dīcendum quod submersīō nāvis attribuitur nautae ut causae, ex eō quod nōn agit quod
+requīritur ad salūtem nāvis. Sed Deus nōn dēficit ab agendō quod est necessārium ad salūtem.
+Unde nōn est simile.
+
+ARTICULUS 3
+
+Utrum sit ūnum summum malum, quod sit causa omnis malī
+
+Ad tertium sīc prōcēditur. Vidētur quod sit ūnum summum malum, quod sit causa omnis malī.
+
+1. Contrāriōrum enim effectuum contrāriae sunt causae. Sed in rēbus invenītur contrārietās,
+secundum illud Ecclī. 33,15: Contrā malum bonum est, et contrā vītam mors; sīc et contrā
+virum jūstum peccātor. Ergō sunt contrāria prīncipia, ūnum bonī et aliud malī.
+
+2. Praetereā, sī ūnum contrāriōrum est in rērum nātūrā, et reliquum, ut dīcitur in IĪ Dē caelō
+
+et mundī. Sed summum bonum est in rērum nātūrā, quod est causa omnis bonī, ut suprā
+ostēnsum est. Ergō est et summum malum eī oppositum, causā omnis malī.
+
+3. Praetereā, sīcut in rēbus invenītur bonum et melius, ita malum et pejus. Sed bonum et
+melius dīcuntur per respectum ad optimum. Ergō malum et pejus dīcuntur per respectum ad
+aliquod summum malum.
+
+4. Praetereā, omne quod est per participātiōnem, redūcitur ad illud quod est per essentiam. Sed
+rēs quae sunt malae apud nōs, nōn sunt malae per essentiam, sed per participātiōnem. Ergō est
+invenīre aliquod summum malum per essentiam, quod est causa omnis malī.
+
+
+5. Praetereā, omne quod est per accidēns, redūcitur ad illud quod est per sē. Sed bonum est causa
+malī per accidēns. Ergō oportet pōnere aliquod summum malum, quod sit causa malōrum per sē.
+Neque potest dīcī quod malum nōn habeat causam per sē, sed per accidēns tantum: quia
+sequerētur quod malum nōn esset ut in plūribus, sed ut in pauciōribus.
+
+6. Praetereā, malum effectūs redūcitur ad malum causae: quia effectus dēficiēns est ā causā
+dēficiente, sīcut suprā dictum est. Sed hoc nōn est prōcēdere in īnfīnītum. Ergō oportet pōnere
+ūnum prīmum malum, quod sit causa omnis malī.
+
+
+Sed contrā est quod summum bonum est causa omnis entis, ut suprā ostēnsum est. Ergō nōn
+potest esse aliquod prīncipium eī oppositum, quod sit causa malōrum.
+
+Respondeō dīcendum quod ex praedictīs patet nōn esse ūnum prīmum prīncipium malōrum, sīcut
+est ūnum prīmum prīncipium bonōrum. Prīmō quidem, quia prīmum prīncipium bonōrum est
+per essentiam bonum, ut suprā ostēnsum est. Nihil autem potest esse per suam essentiam
+malum; ostēnsum est enim quod omne ēns, inquantum est ēns, bonum est; et quod malum nōn est
+nisi in bonō ut in subjectō.
+Secundō, quia prīmum bonōrum prīncipium est summum et perfectum bonum, quod praehabet
+
+in sē omnem bonitātem, ut suprā ostēnsum est. Summum autem malum esse nōn potest: quia,
+sīcut ostēnsum est, etsī malum semper diminuat bonum, nunquam tamen illud potest tōtāliter
+cōnsūmere; et sīc, semper remanente bonō, nōn potest esse aliquid integrē et perfectē malum.
+Propter quod Philosophus dīcit, in IU Ēthic., quod sī malum integrum sit, sēipsum dēstruet: quia
+dēstrūctō omnī bonō (quod requīritur ad integritātem malī), subtrahitur etiam ipsum malum,
+cujus subjectum est bonum.
+Tertiō, quia ratiō malī repugnat ratiōnī prīmī prīncipiī. Tum quia omne malum causātur ex
+bonō, ut suprā ostēnsum est. Tum quia malum nōn potest esse causa nisi per accidēns: et sīc nōn
+
+potest esse prīma causa, quia causa per accidēns est posterior eā quae est per sē, ut patet in IĪ
+Physic.
+Quī autem posuērunt duo prīma prīncipia, ūnum bonum et alterum malum, ex eādem rādīce in
+hunc errōrem incidērunt, ex quā et aliae extrāneae positiōnēs antīquōrum ortum habuērunt:
+quia scīlicet nōn cōnsīderāvērunt causam ūniversālem tōtīus entis, sed particulārēs tantum
+causās particulārium effectuum. Propter hoc enim, sī aliquid invēnērunt esse nocīvum alicui
+reī per virtūtem suae nātūrae, aestimāvērunt nātūram illīus reī esse malam: putā sī quis dīcat
+nātūram ignis esse malam, quia combussit domum alicujus pauperis. Indicium autem dē bonitāte
+alicujus reī nōn est accipiendum secundum ōrdinem ad aliquid particulāre; sed secundum
+sēipsum, et secundum ōrdinem ad tōtum ūniversum, in quō quaelibet rēs suum locum
+
+ordinātissimē tenet, ut ex dictīs patet.
+Similiter etiam, quia invēnērunt duōrum particulārium effectuum contrāriōrum duās causās
+particulārēs contrāriās, nescīvērunt redūcere causās particulārēs contrāriās in causam
+ūniversālem commūnem. Et ideō usque ad prīma prīncipia contrārietātem in causīs esse
+jūdicāvērunt. Sed cum omnia contrāria conveniant in ūnō commūnī, necesse est in eīs, suprā
+causās contrāriās propriās, invenīrī ūnam causam commūnem: sīcut suprā quālitātēs contrāriās
+elementōrum invenītur virtūs corporis caelestis. Et similiter suprā omnia quae quōcumque
+modō sunt, invenītur ūnum prīmum prīncipium essendi, ut suprā ostēnsum est.
+
+Ad prīmum ergō dīcendum quod contrāria conveniunt genere ūnō, et etiam conveniunt in ratiōne
+essendi. Et ideō, licet habeant causās particulārēs contrāriās, tamen oportet dēvenīre ad ūnam
+prīmam causam commūnem.
+
+Ad secundum dīcendum quod prīvātiō et habitus nāta sunt fierī circā idem. Subjectum autem
+prīvātiōnis est ēns in potentiā, ut dictum est. Unde, cum mālum sit prīvātiō bonī, ut ex dictīs
+patet, illī bonō oppōnitur cui adjungitur potentia: nōn autem summō bonō, quod est āctus pūrus.
+
+Ad tertium dīcendum quod ūnumquodque intenditur secundum propriam ratiōnem. Sīcut autem
+fōrma est perfectiō quaedam, itā prīvātiō est quaedam remōtiō. Unde omnis fōrma et perfectiō et
+
+bonum per accessum ad terminum perfectum intenditur: prīvātiō autem et malum per recessum
+ā terminō. Unde nōn dīcitur malum et pejus per accessum ad summum malum, sīcut dīcitur
+bonum et melius per accessum ad summum bonum.
+
+Ad quārtum dīcendum quod nūllum ēns dīcitur malum per participātiōnem, sed per prīvātiōnem
+participātiōnis. Unde nōn oportet fierī reductiōnem ad aliquid quod sit per essentiam malum.
+
+Ad quīntum dīcendum quod malum nōn potest habēre causam nisi per accidēns, ut suprā
+ostēnsum est. Unde impossibile est fierī reductiōnem ad aliquid quod sit per sē causa malī. Quod
+autem dīcitur, quod malum est ut in plūribus, simpliciter falsum est. Nam generābilia et
+corruptibilia, in quibus sōlum contingit esse malum nātūrae, sunt modica pars tōtīus ūniversī.
+Et iterum in ūnāquāque speciē dēfectus nātūrae accidit ut in pauciōribus. In sōlīs autem
+hominibus malum vidētur esse ut in plūribus: quia bonum hominis secundum sēnsum nōn est
+hominis inquāntum homō, idest secundum ratiōnem; plūrēs autem sequuntur sēnsum quam
+ratiōnem.
+
+
+Ad sextum dīcendum quod in causīs malī nōn est prōcēdere in īnfīnītum: sed est redūcere omnia
+mala in aliquam causam bonam, ex quā sequitur malum per accidēns.
+
+
+
+
+
+St. Thomās Aquīnās
+Chrīstiān Latīn
+The Latīn Library
+The Classics Pāge
+
